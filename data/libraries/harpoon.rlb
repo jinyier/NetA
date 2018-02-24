@@ -1,0 +1,310 @@
+i1s1
+1 0 1
+DIN
+
+    Q N 1
+    G
+    C 0
+
+
+i1s2
+1 0 1
+DIN
+
+    Q N 1
+    G
+    C 0
+
+
+i1s3
+1 0 1
+DIN
+
+    Q N 1
+    G
+    C 0
+
+
+nb1s1
+1 0 1
+DIN
+
+    Q N 1
+    G
+    O 0
+
+
+hi1s1
+1 0 1
+DIN
+
+    Q N 1
+    G
+    C 0
+    
+
+nnd2s1
+2 0 1
+DIN1 DIN2
+
+    Q O 2
+    G
+    C 0
+    C 1
+
+    
+nnd3s1
+3 0 1
+DIN1 DIN2 DIN3
+
+    Q O 3
+    G
+    C 0
+    C 1
+    C 2
+
+
+nnd4s1
+4 0 1
+DIN1 DIN2 DIN3 DIN4
+
+    Q O 4
+    G
+    C 0
+    C 1
+    C 2
+    C 3
+
+nnd4s3
+4 0 1
+DIN1 DIN2 DIN3 DIN4
+
+    Q O 4
+    G
+    C 0
+    C 1
+    C 2
+    C 3
+    
+    
+and2s1
+2 0 1
+DIN1 DIN2
+
+    Q A 2
+    G
+    O 0
+    O 1
+
+    
+and3s1
+3 0 1
+DIN1 DIN2 DIN3
+
+    Q A 3
+    G
+    O 0
+    O 1
+    O 2
+
+    
+and4s1
+4 0 1
+DIN1 DIN2 DIN3 DIN4
+
+    Q A 4
+    G
+    O 0
+    O 1
+    O 2
+    O 3
+
+
+mx21s1
+3 2 1
+DIN1 DIN2 SIN
+ 
+    A 2
+    G
+    O 0
+    C 2
+ 
+    A 2
+    G
+    O 1
+    O 2
+ 
+    Q O 2
+    G
+    O 3
+    O 4
+
+
+mx21s2
+3 2 1
+DIN1 DIN2 SIN
+ 
+    A 2
+    G
+    O 0
+    C 2
+ 
+    A 2
+    G
+    O 1
+    O 2
+ 
+    Q O 2
+    G
+    O 3
+    O 4
+    
+
+mx21s3
+3 2 1
+DIN1 DIN2 SIN
+ 
+    A 2
+    G
+    O 0
+    C 2
+ 
+    A 2
+    G
+    O 1
+    O 2
+ 
+    Q O 2
+    G
+    O 3
+    O 4
+    
+
+nor2s1
+2 0 1
+DIN1 DIN2
+
+    Q A 2
+    G
+    C 0
+    C 1
+
+    
+nor3s1
+3 0 1
+DIN1 DIN2 DIN3
+
+    Q A 3
+    G
+    C 0
+    C 1
+    C 2
+
+
+nor4s1
+4 0 1
+DIN1 DIN2 DIN3 DIN4
+
+    Q A 4
+    G
+    C 0
+    C 1
+    C 2
+    C 3
+    
+
+or2s1
+2 0 1
+DIN1 DIN2
+
+    Q O 2
+    G
+    O 0
+    O 1
+
+    
+or3s1
+3 0 1
+DIN1 DIN2 DIN3
+
+    Q O 3
+    G
+    O 0
+    O 1
+    O 2
+
+
+or4s1
+4 0 1
+DIN1 DIN2 DIN3 DIN4
+
+    Q O 4
+    G
+    O 0
+    O 1
+    O 2
+    O 3
+
+
+xnr2s1
+2 0 1
+DIN1 DIN2
+
+    Q X 2
+    G
+    C 0
+    O 1
+
+
+xor2s1
+2 0 1
+DIN1 DIN2
+
+    Q X 2
+    G
+    O 0
+    O 1
+    
+
+dffass1
+3 0 2
+DIN CLK SETB
+
+    Q O 2
+    R
+    O 0
+    C 2
+    
+    QN C 1
+    R
+    C 3
+
+
+dffs1
+2 0 2
+DIN CLK
+    Q A 1
+    R
+    O 0
+
+    QN C 1
+    R
+    C 2
+
+dffascs1
+4 1 2
+DIN CLK CLRB SETB
+
+O 2
+G
+O 0
+C 3
+
+Q A 2
+R
+O 4
+O 2
+    
+QN C 1
+    R
+    C 5

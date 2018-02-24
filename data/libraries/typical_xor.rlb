@@ -1,0 +1,8713 @@
+ACCSHCINX2
+4 4 2
+A B CI0N CI1N
+
+   X 2
+   G
+   O 0
+   O 1
+
+   A 2
+   G
+   O 0
+   O 1
+
+   A 2
+   G
+   O 4
+   C 2
+
+   A 2
+   G
+   O 4
+   C 3
+
+   CO0 O 2
+   G
+   O 5
+   O 7
+
+   CO1 O 2
+   G
+   O 5
+   O 8
+
+ACCSHCINX4
+4 4 2
+A B CI0N CI1N
+
+   X 2
+   G
+   O 0
+   O 1
+
+   A 2
+   G
+   O 0
+   O 1
+
+   A 2
+   G
+   O 4
+   C 2
+
+   A 2
+   G
+   O 4
+   C 3
+
+   CO0 O 2
+   G
+   O 5
+   O 7
+
+   CO1 O 2
+   G
+   O 5
+   O 8
+
+
+ACCSHCONX2
+4 4 2
+A B CI0 CI1
+
+   X 2
+   G
+   O 0
+   O 1
+   
+   A 2
+   G
+   O 0
+   O 1
+   
+   A 2
+   G
+   O 4
+   O 2
+
+   A 2
+   G
+   O 4
+   O 3
+
+   CO0N A 2
+   G
+   C 5
+   C 6
+
+   CO1N A 2
+   G
+   C 5
+   C 7
+
+ACCSHCONX4
+4 4 2
+A B CI0 CI1
+
+   X 2
+   G
+   O 0
+   O 1
+   
+   A 2
+   G
+   O 0
+   O 1
+   
+   A 2
+   G
+   O 4
+   O 2
+
+   A 2
+   G
+   O 4
+   O 3
+
+   CO0N A 2
+   G
+   C 5
+   C 6
+
+   CO1N A 2
+   G
+   C 5
+   C 7
+
+
+ACCSIHCONX2
+2 0 2
+A B
+
+   CO0N O 2
+   G
+   C 0
+   C 1
+
+   CO1N A 2
+   G
+   C 0
+   C 1
+
+ACCSIHCONX4
+2 0 2
+A B
+
+   CO0N O 2
+   G
+   C 0
+   C 1
+
+   CO1N A 2
+   G
+   C 0
+   C 1
+
+
+ACHCINX2
+3 3 1
+A B CIN
+
+   X 2
+   G
+   O 0
+   O 1
+
+   A 2
+   G
+   O 0
+   O 1
+
+   A 2
+   G
+   O 3
+   C 2
+
+   CO O 2
+   G
+   O 4
+   O 5
+
+ACHCINX4
+3 3 1
+A B CIN
+
+   X 2
+   G
+   O 0
+   O 1
+
+   A 2
+   G
+   O 0
+   O 1
+
+   A 2
+   G
+   O 3 
+   C 2
+
+   CO O 2
+   G
+   O 4
+   O 5
+
+
+ACHCONX2
+3 3 1
+A B CI
+
+   X 2
+   G
+   O 0
+   O 1
+
+   A 2
+   G
+   O 0
+   O 1
+
+   A 2
+   G
+   O 2
+   O 3
+
+   CON A 2
+   G
+   C 4
+   C 5
+
+ACHCONX4
+3 3 1
+A B CI
+
+   X 2
+   G
+   O 0
+   O 1
+
+   A 2
+   G
+   O 0
+   O 1
+
+   A 2
+   G
+   O 2
+   O 3
+
+   CON A 2
+   G
+   C 4
+   C 5
+
+
+ADDFHX1
+3 3 2
+A B CI
+
+   X 2
+   G
+   O 0
+   O 1
+
+   A 2
+   G
+   O 0
+   O 1
+
+   A 2
+   G
+   O 2
+   O 3
+
+   CO O 2
+   G
+   O 4
+   O 5
+
+   S X 3
+   G
+   O 0
+   O 1
+   O 2
+
+ADDFHX2
+3 3 2
+A B CI
+
+   X 2
+   G
+   O 0
+   O 1
+
+   A 2
+   G
+   O 0
+   O 1
+
+   A 2
+   G
+   O 2
+   O 3
+
+   CO O 2
+   G
+   O 4
+   O 5
+
+   S X 3
+   G
+   O 0
+   O 1
+   O 2
+
+ADDFHX4
+3 3 2
+A B CI
+
+   X 2
+   G
+   O 0
+   O 1
+
+   A 2
+   G
+   O 0
+   O 1
+
+   A 2
+   G
+   O 2
+   O 3
+
+   CO O 2
+   G
+   O 4
+   O 5
+
+   S X 3
+   G
+   O 0
+   O 1
+   O 2
+
+ADDFHXL
+3 3 2
+A B CI
+
+   X 2
+   G
+   O 0
+   O 1
+
+   A 2
+   G
+   O 0
+   O 1
+
+   A 2
+   G
+   O 2
+   O 3
+
+   CO O 2
+   G
+   O 4
+   O 5
+
+   S X 3
+   G
+   O 0
+   O 1
+   O 2
+
+
+ADDFX1
+3 3 2
+A B CI
+
+   X 2
+   G
+   O 0
+   O 1
+
+   A 2
+   G
+   O 0
+   O 1
+
+   A 2
+   G
+   O 2
+   O 3
+
+   CO O 2
+   G
+   O 4
+   O 5
+
+   S X 3
+   G
+   O 0
+   O 1
+   O 2
+
+ADDFX2
+3 3 2
+A B CI
+
+   X 2
+   G
+   O 0
+   O 1
+
+   A 2
+   G
+   O 0
+   O 1
+
+   A 2
+   G
+   O 2
+   O 3
+
+   CO O 2
+   G
+   O 4
+   O 5
+
+   S X 3
+   G
+   O 0
+   O 1
+   O 2
+
+ADDFX4
+3 3 2
+A B CI
+
+   X 2
+   G
+   O 0
+   O 1
+
+   A 2
+   G
+   O 0
+   O 1
+
+   A 2
+   G
+   O 2
+   O 3
+
+   CO O 2
+   G
+   O 4
+   O 5
+
+   S X 3
+   G
+   O 0
+   O 1
+   O 2
+
+ADDFXL
+3 3 2
+A B CI
+
+   X 2
+   G
+   O 0
+   O 1
+
+   A 2
+   G
+   O 0
+   O 1
+
+   A 2
+   G
+   O 2
+   O 3
+
+   CO O 2
+   G
+   O 4
+   O 5
+
+   S X 3
+   G
+   O 0
+   O 1
+   O 2
+
+
+ADDHX1
+2 0 2
+A B
+
+   S X 2
+   G
+   O 0
+   O 1
+
+   CO A 2
+   G
+   O 0
+   O 1
+
+ADDHX2
+2 0 2
+A B
+
+   S X 2
+   G
+   O 0
+   O 1
+
+   CO A 2
+   G
+   O 0
+   O 1
+
+ADDHX4
+2 0 2
+A B
+
+   S X 2
+   G
+   O 0
+   O 1
+
+   CO A 2
+   G
+   O 0
+   O 1
+
+ADDHXL
+2 0 2
+A B
+
+   S X 2
+   G
+   O 0
+   O 1
+
+   CO A 2
+   G
+   O 0
+   O 1
+
+
+AFCSHCINX2
+5 8 3
+A B CS CI0N CI1N
+
+   X 2
+   G
+   O 0
+   O 1
+
+   A 2
+   G
+   O 0
+   O 1
+
+   A 2
+   G
+   O 5
+   O 3
+
+   A 2
+   G
+   O 5
+   O 4
+
+   X 3
+   G
+   O 0
+   O 1
+   C 3
+   
+   X 3
+   G
+   O 0
+   O 1
+   C 4
+
+   A 2
+   G
+   C 2
+   O 9
+   
+   A 2
+   G
+   O 2
+   O 10
+
+   S O 2
+   G
+   O 11
+   O 12
+
+   CO0 O 2
+   G
+   O 6
+   O 7
+
+   CO1 O 2
+   G
+   O 6
+   O 8
+
+AFCSHCINX4
+5 8 3
+A B CS CI0N CI1N
+
+   X 2
+   G
+   O 0
+   O 1
+
+   A 2
+   G
+   O 0
+   O 1
+
+   A 2
+   G
+   O 5
+   O 3
+
+   A 2
+   G
+   O 5
+   O 4
+
+   X 3
+   G
+   O 0
+   O 1
+   C 3
+   
+   X 3
+   G
+   O 0
+   O 1
+   C 4
+
+   A 2
+   G
+   C 2
+   O 9
+   
+   A 2
+   G
+   O 2
+   O 10
+
+   S O 2
+   G
+   O 11
+   O 12
+
+   CO0 O 2
+   G
+   O 6
+   O 7
+
+   CO1 O 2
+   G
+   O 6
+   O 8
+
+AFCSHCONX2
+5 8 3
+A B CS CI0 CI1
+
+   X 2
+   G
+   O 0
+   O 1
+
+   A 2
+   G
+   O 0
+   O 1
+
+   A 2
+   G
+   O 5
+   C 3
+
+   A 2
+   G
+   O 5
+   C 4
+
+   X 3
+   G
+   O 0
+   O 1
+   O 3
+   
+   X 3
+   G
+   O 0
+   O 1
+   O 4
+
+   A 2
+   G
+   C 2
+   O 9
+   
+   A 2
+   G
+   O 2
+   O 10
+
+   S O 2
+   G
+   O 11
+   O 12
+
+   CO0 A 2
+   G
+   C 6
+   C 7
+
+   CO1 A 2
+   G
+   C 6
+   C 8
+
+
+AFCSIHCONX2
+3 0 3
+A B CS
+
+   CO0N O 2
+   G
+   C 0
+   C 1
+
+   CO1N A 2
+   G
+   C 0
+   C 1
+
+   S X 3
+   G
+   O 0
+   O 1
+   O 2
+
+AFCSIHCONX4
+3 0 3
+A B CS
+
+   CO0N O 2
+   G
+   C 0
+   C 1
+
+   CO1N A 2
+   G
+   C 0
+   C 1
+
+   S X 3
+   G
+   O 0
+   O 1
+   O 2
+
+
+AFHCINX2
+3 3 2
+A B CIN
+
+   X 2
+   G
+   O 0
+   O 1
+
+   A 2
+   G
+   O 0
+   O 1
+
+   A 2
+   G
+   O 3
+   C 2 
+
+   S O 3
+   G
+   O 0
+   O 1
+   C 2
+
+   CO O 2
+   G
+   O 4
+   O 5
+
+AFHCINX4
+3 3 2
+A B CIN
+
+   X 2
+   G
+   O 0
+   O 1
+
+   A 2
+   G
+   O 0
+   O 1
+
+   A 2
+   G
+   O 3
+   C 2 
+
+   S O 3
+   G
+   O 0
+   O 1
+   C 2
+
+   CO O 2
+   G
+   O 4
+   O 5
+
+
+AFHCONX2
+3 3 2
+A B CI
+
+   X 2
+   G
+   O 0
+   O 1
+
+   A 2
+   G
+   O 0
+   O 1
+
+   A 2
+   G
+   O 2
+   O 3
+
+   S X 3
+   G
+   O 0
+   O 1
+   O 2
+
+   CON A 2
+   G
+   C 4
+   C 5
+
+AFHCONX4
+3 3 2
+A B CI
+
+   X 2
+   G
+   O 0
+   O 1
+
+   A 2
+   G
+   O 0
+   O 1
+
+   A 2
+   G
+   O 2
+   O 3
+
+   S X 3
+   G
+   O 0
+   O 1
+   O 2
+
+   CON A 2
+   G
+   C 4
+   C 5
+
+
+AHCSHCINX2
+3 3 2
+A CIN CS
+
+   X 2
+   G
+   O 0
+   C 1
+
+   A 2
+   G
+   O 0
+   O 3
+
+   A 2
+   G
+   C 2
+   O 0
+
+   S O 2
+   G
+   O 4
+   O 5
+
+   CO A 2
+   G
+   O 0
+   C 1
+
+AHCSHCINX4
+3 3 2
+A CIN CS
+
+   X 2
+   G
+   O 0
+   C 1
+
+   A 2
+   G
+   O 0
+   O 3
+
+   A 2
+   G
+   C 2
+   O 0
+
+   S O 2
+   G
+   O 4
+   O 5
+
+   CO A 2
+   G
+   O 0
+   C 1
+
+
+AHCSHCONX2
+3 3 2
+A CI CS
+
+   X 2
+   G
+   O 0
+   O 1
+
+   A 2
+   G
+   O 2
+   O 3
+
+   A 2
+   G
+   C 2
+   O 0
+
+   S O 2
+   G
+   O 4
+   O 5
+
+   CO O 2
+   G
+   C 0
+   C 1
+
+AHCSHCONX4
+3 3 2
+A CI CS
+
+   X 2
+   G
+   O 0
+   O 1
+
+   A 2
+   G
+   O 2
+   O 3
+
+   A 2
+   G
+   C 2
+   O 0
+
+   S O 2
+   G
+   O 4
+   O 5
+
+   CO O 2
+   G
+   C 0
+   C 1
+
+
+AHHCINX2
+2 0 2
+A CIN
+
+   S X 2
+   G
+   O 0
+   C 1
+
+   CO A 2
+   G
+   O 0
+   C 1
+
+AHHCINX4
+2 0 2
+A CIN
+
+   S X 2
+   G
+   O 0
+   C 1
+
+   CO A 2
+   G
+   O 0
+   C 1
+
+
+AHHCONX2
+2 0 2
+A CI
+
+   S X 2
+   G
+   O 0
+   O 1
+
+   CON O 2
+   G
+   C 0
+   C 1
+
+AHHCONX4
+2 0 2
+A CI
+
+   S X 2
+   G
+   O 0
+   O 1
+
+   CON O 2
+   G
+   C 0
+   C 1
+
+
+AND2X1
+2 0 1
+A B
+   Y A 2
+   G
+   O 0
+   O 1
+
+
+AND2X2
+2 0 1
+A B
+   Y A 2
+   G
+   O 0
+   O 1
+
+
+AND2X4
+2 0 1
+A B
+   Y A 2
+   G
+   O 0
+   O 1
+
+
+AND2X6
+2 0 1
+A B
+   Y A 2
+   G
+   O 0
+   O 1
+
+
+AND2X8
+2 0 1
+A B
+   Y A 2
+   G
+   O 0
+   O 1
+
+
+AND2XL
+2 0 1
+A B
+   Y A 2
+   G
+   O 0
+   O 1
+
+
+AND3X1
+3 0 1
+A B C
+   Y A 3
+   G
+   O 0
+   O 1
+   O 2
+
+
+AND3X2
+3 0 1
+A B C
+   Y A 3
+   G
+   O 0
+   O 1
+   O 2
+
+
+AND3X4
+3 0 1
+A B C
+   Y A 3
+   G
+   O 0
+   O 1
+   O 2
+
+
+AND3X6
+3 0 1
+A B C
+   Y A 3
+   G
+   O 0
+   O 1
+   O 2
+
+
+AND3X8
+3 0 1
+A B C
+   Y A 3
+   G
+   O 0
+   O 1
+   O 2
+
+
+AND3XL
+3 0 1
+A B C
+   Y A 3
+   G
+   O 0
+   O 1
+   O 2
+
+
+AND4X1
+4 0 1
+A B C D
+   Y A 4
+   G
+   O 0
+   O 1
+   O 2
+   O 3
+
+
+AND4X2
+4 0 1
+A B C D
+   Y A 4
+   G
+   O 0
+   O 1
+   O 2
+   O 3
+
+
+AND4X4
+4 0 1
+A B C D
+   Y A 4
+   G
+   O 0
+   O 1
+   O 2
+   O 3
+
+
+AND4X6
+4 0 1
+A B C D
+   Y A 4
+   G
+   O 0
+   O 1
+   O 2
+   O 3
+
+
+AND4X8
+4 0 1
+A B C D
+   Y A 4
+   G
+   O 0
+   O 1
+   O 2
+   O 3
+
+
+AND4XL
+4 0 1
+A B C D
+   Y A 4
+   G
+   O 0
+   O 1
+   O 2
+   O 3
+
+
+AO21X1
+3 1 1
+A0 A1 B0
+
+   A 2
+   G
+   O 0
+   O 1
+
+   Y O 2
+   G
+   O 2
+   O 3
+
+
+AO21X2
+3 1 1
+A0 A1 B0
+
+   A 2
+   G
+   O 0
+   O 1
+
+   Y O 2
+   G
+   O 2
+   O 3
+
+
+AO21X4
+3 1 1
+A0 A1 B0
+
+A 2
+G
+O 0
+O 1
+
+Y O 2
+G
+O 2
+O 3
+
+
+AO21XL
+3 1 1
+A0 A1 B0
+
+A 2
+G
+O 0
+O 1
+
+Y O 2
+G
+O 2
+O 3
+
+
+AO22X1
+4 2 1
+A0 A1 B0 B1
+
+A 2
+G
+O 0
+O 1
+
+A 2
+G
+O 2
+O 3
+
+Y O 2
+G
+O 4
+O 5
+
+
+AO22X2
+4 2 1
+A0 A1 B0 B1
+
+A 2
+G
+O 0
+O 1
+
+A 2
+G
+O 2
+O 3
+
+Y O 2
+G
+O 4
+O 5
+
+
+AO22X4
+4 2 1
+A0 A1 B0 B1
+
+A 2
+G
+O 0
+O 1
+
+A 2
+G
+O 2
+O 3
+
+Y O 2
+G
+O 4
+O 5
+
+
+AO22XL
+4 2 1
+A0 A1 B0 B1
+
+A 2
+G
+O 0
+O 1
+
+A 2
+G
+O 2
+O 3
+
+Y O 2
+G
+O 4
+O 5
+
+
+AOI211X1
+4 1 1
+A0 A1 B0 C0
+
+A 2
+G
+O 0
+O 1
+
+Y A 3
+G
+C 2
+C 3
+C 4
+
+
+AOI211X2
+4 1 1
+A0 A1 B0 C0
+
+A 2
+G
+O 0
+O 1
+
+Y A 3
+G
+C 2
+C 3
+C 4
+
+
+AOI211X4
+4 1 1
+A0 A1 B0 C0
+
+A 2
+G
+O 0
+O 1
+
+Y A 3
+G
+C 2
+C 3
+C 4
+
+
+AOI211XL
+4 1 1
+A0 A1 B0 C0
+
+A 2
+G
+O 0
+O 1
+
+Y A 3
+G
+C 2
+C 3
+C 4
+
+
+AOI21X1
+3 1 1
+A0 A1 B0
+
+A 2
+G
+O 0
+O 1
+
+Y A 2
+G
+C 2
+C 3
+
+
+AOI21X2
+3 1 1
+A0 A1 B0
+
+A 2
+G
+O 0
+O 1
+
+Y A 2
+G
+C 2
+C 3
+
+
+AOI21X4
+3 1 1
+A0 A1 B0
+
+A 2
+G
+O 0
+O 1
+
+Y A 2
+G
+C 2
+C 3
+
+
+AOI21XL
+3 1 1
+A0 A1 B0
+
+A 2
+G
+O 0
+O 1
+
+Y A 2
+G
+C 2
+C 3
+
+AOI221X1
+5 2 1
+A0 A1 B0 B1 C0
+
+A 2
+G
+O 0
+O 1
+
+A 2
+G
+O 2
+O 3
+
+Y A 3
+G
+C 4
+C 5
+C 6
+
+
+AOI221X2
+5 2 1
+A0 A1 B0 B1 C0
+
+A 2
+G
+O 0
+O 1
+
+A 2
+G
+O 2
+O 3
+
+Y A 3
+G
+C 4
+C 5
+C 6
+
+
+AOI221X4
+5 2 1
+A0 A1 B0 B1 C0
+
+A 2
+G
+O 0
+O 1
+
+A 2
+G
+O 2
+O 3
+
+Y A 3
+G
+C 4
+C 5
+C 6
+
+
+AOI221XL
+5 2 1
+A0 A1 B0 B1 C0
+
+A 2
+G
+O 0
+O 1
+
+A 2
+G
+O 2
+O 3
+
+Y A 3
+G
+C 4
+C 5
+C 6
+
+
+AOI222X1
+6 3 1
+A0 A1 B0 B1 C0 C1
+
+A 2
+G
+O 0
+O 1
+
+A 2
+G
+O 2
+O 3
+
+A 2
+G
+O 4
+O 5
+
+Y A 3
+G
+C 6
+C 7
+C 8
+
+
+AOI222X2
+6 3 1
+A0 A1 B0 B1 C0 C1
+
+A 2
+G
+O 0
+O 1
+
+A 2
+G
+O 2
+O 3
+
+A 2
+G
+O 4
+O 5
+
+Y A 3
+G
+C 6
+C 7
+C 8
+
+
+AOI222X4
+6 3 1
+A0 A1 B0 B1 C0 C1
+
+A 2
+G
+O 0
+O 1
+
+A 2
+G
+O 2
+O 3
+
+A 2
+G
+O 4
+O 5
+
+Y A 3
+G
+C 6
+C 7
+C 8
+
+
+AOI222XL
+6 3 1
+A0 A1 B0 B1 C0 C1
+
+A 2
+G
+O 0
+O 1
+
+A 2
+G
+O 2
+O 3
+
+A 2
+G
+O 4
+O 5
+
+Y A 3
+G
+C 6
+C 7
+C 8
+
+
+AOI22X1
+4 2 1
+A0 A1 B0 B1
+
+A 2
+G
+O 0
+O 1
+
+A 2
+G
+O 2
+O 3
+
+Y A 2
+G
+C 4
+C 5
+
+
+AOI22X2
+4 2 1
+A0 A1 B0 B1
+
+A 2
+G
+O 0
+O 1
+
+A 2
+G
+O 2
+O 3
+
+Y A 2
+G
+C 4
+C 5
+
+
+AOI22X4
+4 2 1
+A0 A1 B0 B1
+
+A 2
+G
+O 0
+O 1
+
+A 2
+G
+O 2
+O 3
+
+Y A 2
+G
+C 4
+C 5
+
+
+AOI22XL
+4 2 1
+A0 A1 B0 B1
+
+A 2
+G
+O 0
+O 1
+
+A 2
+G
+O 2
+O 3
+
+Y A 2
+G
+C 4
+C 5
+
+
+AOI2BB1X1
+3 1 1
+A0N A1N B0
+
+O 2
+G
+O 0
+O 1
+
+Y A 2
+G
+O 3
+C 2
+
+
+AOI2BB1X2
+3 1 1
+A0N A1N B0
+
+O 2
+G
+O 0
+O 1
+
+Y A 2
+G
+O 3
+C 2
+
+
+AOI2BB1X4
+3 1 1
+A0N A1N B0
+
+O 2
+G
+O 0
+O 1
+
+Y A 2
+G
+O 3
+C 2
+
+
+AOI2BB1XL
+3 1 1
+A0N A1N B0
+
+O 2
+G
+O 0
+O 1
+
+Y A 2
+G
+O 3
+C 2
+
+
+AOI2BB2X1
+4 2 1
+A0N A1N B0 B1
+
+O 2
+G
+O 0
+O 1
+
+O 2
+G
+C 2
+C 3
+
+Y A 2
+G
+O 4
+O 5
+
+
+AOI2BB2X2
+4 2 1
+A0N A1N B0 B1
+
+O 2
+G
+O 0
+O 1
+
+O 2
+G
+C 2
+C 3
+
+Y A 2
+G
+O 4
+O 5
+
+
+AOI2BB2X4
+4 2 1
+A0N A1N B0 B1
+
+O 2
+G
+O 0
+O 1
+
+O 2
+G
+C 2
+C 3
+
+Y A 2
+G
+O 4
+O 5
+
+
+AOI2BB2XL
+4 2 1
+A0N A1N B0 B1
+
+O 2
+G
+O 0
+O 1
+
+O 2
+G
+C 2
+C 3
+
+Y A 2
+G
+O 4
+O 5
+
+
+AOI31X1
+4 1 1
+A0 A1 A2 B0
+
+O 3
+G
+C 0
+C 1
+C 2
+
+Y A 2
+G
+C 3
+O 4
+
+
+AOI31X2
+4 1 1
+A0 A1 A2 B0
+
+O 3
+G
+C 0
+C 1
+C 2
+
+Y A 2
+G
+C 3
+O 4
+
+
+AOI31X4
+4 1 1
+A0 A1 A2 B0
+
+O 3
+G
+C 0
+C 1
+C 2
+
+Y A 2
+G
+C 3
+O 4
+
+
+AOI31XL
+4 1 1
+A0 A1 A2 B0
+
+O 3
+G
+C 0
+C 1
+C 2
+
+Y A 2
+G
+C 3
+O 4
+
+
+AOI32X1
+5 2 1
+A0 A1 A2 B0 B1
+
+O 3
+G
+C 0
+C 1
+C 2
+
+O 2
+G
+C 3
+C 4
+
+Y A 2
+G
+O 5
+O 6
+
+
+AOI32X2
+5 2 1
+A0 A1 A2 B0 B1
+
+O 3
+G
+C 0
+C 1
+C 2
+
+O 2
+G
+C 3
+C 4
+
+Y A 2
+G
+O 5
+O 6
+
+
+AOI32X4
+5 2 1
+A0 A1 A2 B0 B1
+
+O 3
+G
+C 0
+C 1
+C 2
+
+O 2
+G
+C 3
+C 4
+
+Y A 2
+G
+O 5
+O 6
+
+
+AOI32XL
+5 2 1
+A0 A1 A2 B0 B1
+
+O 3
+G
+C 0
+C 1
+C 2
+
+O 2
+G
+C 3
+C 4
+
+Y A 2
+G
+O 5
+O 6
+
+
+AOI33X1
+6 2 1
+A0 A1 A2 B0 B1 B2
+
+O 3
+G
+C 0
+C 1
+C 2
+
+O 3
+G
+C 3
+C 4
+C 5
+
+Y A 2
+G
+O 6
+O 7
+
+
+AOI33X2
+6 2 1
+A0 A1 A2 B0 B1 B2
+
+O 3
+G
+C 0
+C 1
+C 2
+
+O 3
+G
+C 3
+C 4
+C 5
+
+Y A 2
+G
+O 6
+O 7
+
+
+AOI33X4
+6 2 1
+A0 A1 A2 B0 B1 B2
+
+O 3
+G
+C 0
+C 1
+C 2
+
+O 3
+G
+C 3
+C 4
+C 5
+
+Y A 2
+G
+O 6
+O 7
+
+
+AOI33XL
+6 2 1
+A0 A1 A2 B0 B1 B2
+
+O 3
+G
+C 0
+C 1
+C 2
+
+O 3
+G
+C 3
+C 4
+C 5
+
+Y A 2
+G
+O 6
+O 7
+
+
+BENCX1
+3 2 3
+M0 M1 M2
+
+   A 2
+   G
+   C 0
+   C 1
+
+   A 2
+   G
+   O 0
+   O 1
+
+   A O 2
+   G
+   O 2
+   O 3
+
+   S O 2
+   G
+   C 2
+   O 4
+
+   X2 X 2
+   G
+   C 0
+   O 1
+
+BENCX2
+3 2 3
+M0 M1 M2
+
+   A 2
+   G
+   C 0
+   C 1
+
+   A 2
+   G
+   O 0
+   O 1
+
+   A O 2
+   G
+   O 2
+   O 3
+
+   S O 2
+   G
+   C 2
+   O 4
+
+   X2 X 2
+   G
+   C 0
+   O 1
+
+BENCX4
+3 2 3
+M0 M1 M2
+
+   A 2
+   G
+   C 0
+   C 1
+
+   A 2
+   G
+   O 0
+   O 1
+
+   A O 2
+   G
+   O 2
+   O 3
+
+   S O 2
+   G
+   C 2
+   O 4
+
+   X2 X 2
+   G
+   C 0
+   O 1
+
+
+BMXIX2
+5 4 1
+X2 M0 M1 S A
+
+A 3
+G
+O 0
+O 1
+C 4
+
+A 3
+G
+O 0
+C 1
+C 3
+
+A 3
+G
+C 0
+O 2
+C 4
+
+A 3
+G
+C 0
+C 2
+C 3
+
+PPN A 4
+G
+C 5
+C 6
+C 7
+C 8
+
+
+BMXIX4
+5 4 1
+X2 M0 M1 S A
+
+A 3
+G
+O 0
+O 1
+C 4
+
+A 3
+G
+O 0
+C 1
+C 3
+
+A 3
+G
+C 0
+O 2
+C 4
+
+A 3
+G
+C 0
+C 2
+C 3
+
+PPN A 4
+G
+C 5
+C 6
+C 7
+C 8
+
+
+BMXX2
+5 4 1
+X2 M0 M1 S A
+
+A 3
+G
+O 0
+O 1
+C 4
+
+A 3
+G
+O 0
+C 1
+C 3
+
+A 3
+G
+C 0
+O 2
+C 4
+
+A 3
+G
+C 0
+C 2
+C 3
+
+PP O 4
+G
+O 5
+O 6
+O 7
+O 8
+
+
+BMXX4
+5 4 1
+X2 M0 M1 S A
+
+A 3
+G
+O 0
+O 1
+C 4
+
+A 3
+G
+O 0
+C 1
+C 3
+
+A 3
+G
+C 0
+O 2
+C 4
+
+A 3
+G
+C 0
+C 2
+C 3
+
+PP O 4
+G
+O 5
+O 6
+O 7
+O 8
+
+
+BUFX2
+1 0 1
+A
+Y N 1
+G
+O 0
+
+
+BUFX3
+1 0 1
+A
+Y N 1
+G
+O 0
+
+
+BUFX4
+1 0 1
+A
+Y N 1
+G
+O 0
+
+
+BUFX6
+1 0 1
+A
+Y N 1
+G
+O 0
+
+
+BUFX8
+1 0 1
+A
+Y N 1
+G
+O 0
+
+
+BUFX12
+1 0 1
+A
+Y N 1
+G
+O 0
+
+
+BUFX16
+1 0 1
+A
+Y N 1
+G
+O 0
+
+
+BUFX20
+1 0 1
+A
+Y N 1
+G
+O 0 
+
+
+CLKAND2X2
+2 0 1
+A B
+Y A 2
+G
+O 0
+O 1
+
+
+CLKAND2X3
+2 0 1
+A B
+Y A 2
+G
+O 0
+O 1
+
+
+CLKAND2X4
+2 0 1
+A B
+Y A 2
+G
+O 0
+O 1
+
+
+CLKAND2X6
+2 0 1
+A B
+Y A 2
+G
+O 0
+O 1
+
+
+CLKAND2X8
+2 0 1
+A B
+Y A 2
+G
+O 0
+O 1
+
+
+CLKAND2X12
+2 0 1
+A B
+Y A 2
+G
+O 0
+O 1
+
+
+CLKBUFX2
+1 0 1
+A
+Y N 1
+G
+O 0
+
+
+CLKBUFX3
+1 0 1
+A
+Y N 1
+G
+O 0
+
+
+CLKBUFX4
+1 0 1
+A
+Y N 1
+G
+O 0
+
+
+CLKBUFX6
+1 0 1
+A
+Y N 1
+G
+O 0
+
+
+CLKBUFX8
+1 0 1
+A
+Y N 1
+G
+O 0
+
+
+CLKBUFX12
+1 0 1
+A
+Y N 1
+G
+O 0
+
+
+CLKBUFX16
+1 0 1
+A
+Y N 1
+G
+O 0
+
+
+CLKBUFX20
+1 0 1
+A
+Y N 1
+G
+O 0
+
+
+CLKINVX1
+1 0 1
+A
+Y N 1
+G
+C 0
+
+
+CLKINVX2
+1 0 1
+A
+Y N 1
+G
+C 0
+
+
+CLKINVX3
+1 0 1
+A
+Y N 1
+G
+C 0
+
+
+CLKINVX4
+1 0 1
+A
+Y N 1
+G
+C 0
+
+
+CLKINVX6
+1 0 1
+A
+Y N 1
+G
+C 0
+
+
+CLKINVX8
+1 0 1
+A
+Y N 1
+G
+C 0
+
+
+CLKINVX12
+1 0 1
+A
+Y N 1
+G
+C 0
+
+
+CLKINVX16
+1 0 1
+A
+Y N 1
+G
+C 0
+
+
+CLKINVX20
+1 0 1
+A
+Y N 1
+G
+C 0
+
+
+CLKMX2X2
+3 2 1
+S0 A B
+
+A 2
+G
+O 0
+O 2
+
+A 2
+G
+C 0
+O 1
+
+Y O 2
+G
+O 3
+O 4
+
+
+CLKMX2X3
+3 2 1
+S0 A B
+
+A 2
+G
+O 0
+O 2
+
+A 2
+G
+C 0
+O 1
+
+Y O 2
+G
+O 3
+O 4
+
+
+CLKMX2X4
+3 2 1
+S0 A B
+
+A 2
+G
+O 0
+O 2
+
+A 2
+G
+C 0
+O 1
+
+Y O 2
+G
+O 3
+O 4
+
+
+CLKMX2X6
+3 2 1
+S0 A B
+
+A 2
+G
+O 0
+O 2
+
+A 2
+G
+C 0
+O 1
+
+Y O 2
+G
+O 3
+O 4
+
+
+CLKMX2X8
+3 2 1
+S0 A B
+
+A 2
+G
+O 0
+O 2
+
+A 2
+G
+C 0
+O 1
+
+Y O 2
+G
+O 3
+O 4
+
+
+CLKMX2X12
+3 2 1
+S0 A B
+
+A 2
+G
+O 0
+O 2
+
+A 2
+G
+C 0
+O 1
+
+Y O 2
+G
+O 3
+O 4
+
+
+CLKXOR2X1
+2 0 1
+A B
+   Y X 2
+   G
+   O 0
+   O 1
+
+CLKXOR2X2
+2 0 1
+A B
+   Y X 2
+   G
+   O 0
+   O 1
+
+CLKXOR2X4
+2 0 1
+A B
+   Y X 2
+   G
+   O 0
+   O 1
+
+CLKXOR2X8
+2 0 1
+A B
+   Y X 2
+   G
+   O 0
+   O 1
+
+
+CMPR22X2
+2 0 2
+A B
+   S X 2
+   G
+   O 0
+   O 1
+
+   CO A 2
+   G
+   O 0
+   O 1
+
+CMPR22X4
+2 0 2
+A B
+   S X 2
+   G
+   O 0
+   O 1
+
+   CO A 2
+   G
+   O 0
+   O 1
+
+CMPR32X2
+3 3 2
+A B C
+   X 2
+   G
+   O 0
+   O 1
+
+   A 2
+   G
+   O 0
+   O 1
+
+   A 2
+   G
+   O 2
+   O 3
+   
+   CO O 2
+   G
+   O 4
+   O 5
+
+   S X 3
+   G
+   O 0
+   O 1
+   O 2
+
+CMPR32X4
+3 3 2
+A B C
+   X 2
+   G
+   O 0
+   O 1
+
+   A 2
+   G
+   O 0
+   O 1
+
+   A 2
+   G
+   O 2
+   O 3
+   
+   CO O 2
+   G
+   O 4
+   O 5
+
+   S X 3
+   G
+   O 0
+   O 1
+   O 2
+
+
+CMPR42X1
+5 7 3
+A B C D ICI
+   X 3
+   G
+   O 0
+   O 1
+   O 2
+   
+   A 2
+   G
+   O 3
+   O 5
+   
+   A 2
+   G
+   O 4
+   O 5
+
+   A 2
+   G
+   O 3
+   O 4
+
+   X 2
+   G
+   O 0
+   O 1
+   
+   A 2
+   G
+   O 0
+   O 1
+   
+   A 2
+   G
+   O 2
+   O 9
+   
+   S X 5
+   G
+   O 0
+   O 1
+   O 2
+   O 3
+   O 4
+
+   ICO O 2
+   G
+   O 10
+   O 11
+
+   CO O 3
+   G
+   O 6
+   O 7
+   O 8
+
+
+CMPR42X2
+5 7 3
+A B C D ICI
+   X 3
+   G
+   O 0
+   O 1
+   O 2
+   
+   A 2
+   G
+   O 3
+   O 5
+   
+   A 2
+   G
+   O 4
+   O 5
+
+   A 2
+   G
+   O 3
+   O 4
+
+   X 2
+   G
+   O 0
+   O 1
+   
+   A 2
+   G
+   O 0
+   O 1
+   
+   A 2
+   G
+   O 2
+   O 9
+   
+   S X 5
+   G
+   O 0
+   O 1
+   O 2
+   O 3
+   O 4
+
+   ICO O 2
+   G
+   O 10
+   O 11
+
+   CO O 3
+   G
+   O 6
+   O 7
+   O 8
+
+CMPR42X4
+5 7 3
+A B C D ICI
+   X 3
+   G
+   O 0
+   O 1
+   O 2
+   
+   A 2
+   G
+   O 3
+   O 5
+   
+   A 2
+   G
+   O 4
+   O 5
+
+   A 2
+   G
+   O 3
+   O 4
+
+   X 2
+   G
+   O 0
+   O 1
+   
+   A 2
+   G
+   O 0
+   O 1
+   
+   A 2
+   G
+   O 2
+   O 9
+   
+   S X 5
+   G
+   O 0
+   O 1
+   O 2
+   O 3
+   O 4
+
+   ICO O 2
+   G
+   O 10
+   O 11
+
+   CO O 3
+   G
+   O 6
+   O 7
+   O 8
+
+
+DFFHQX1
+1 0 1
+D
+
+Q N 1
+R
+O 0
+
+
+DFFHQX2
+1 0 1
+D
+
+Q N 1
+R
+O 0
+
+
+DFFHQX4
+1 0 1
+D
+
+Q N 1
+R
+O 0
+
+
+DFFHQX8
+1 0 1
+D
+
+Q N 1
+R
+O 0
+
+
+DFFNSRX1
+3 1 2
+D SN RN
+
+O 2
+G
+C 1
+O 0
+
+Q A 2
+R
+O 2
+O 3
+
+QN C 1
+R
+C 4
+
+
+DFFNSRX2
+3 1 2
+D SN RN
+
+O 2
+G
+C 1
+O 0
+
+Q A 2
+R
+O 2
+O 3
+
+QN C 1
+R
+C 4
+
+
+DFFNSRX4
+3 1 2
+D SN RN
+
+O 2
+G
+C 1
+O 0
+
+Q A 2
+R
+O 2
+O 3
+
+QN C 1
+R
+C 4
+
+
+DFFNSRXL
+3 1 2
+D SN RN
+
+O 2
+G
+C 1
+O 0
+
+Q A 2
+R
+O 2
+O 3
+
+QN C 1
+R
+C 4
+
+
+DFFQX1
+2 0 1
+D CK
+
+Q N 1
+R
+O 0
+
+
+DFFQX2
+2 0 1
+D CK
+
+Q N 1
+R
+O 0
+
+
+DFFQX4
+2 0 1
+D CK
+
+Q N 1
+R
+O 0
+
+
+DFFQXL
+2 0 1
+D CK
+
+Q N 1
+R
+O 0
+
+
+DFFRHQX1
+3 0 1
+D RN CK
+
+Q A 2
+R
+O 0
+O 1
+
+
+DFFRHQX2
+3 0 1
+D RN CK
+
+Q A 2
+R
+O 0
+O 1
+
+
+DFFRHQX4
+3 0 1
+D RN CK
+
+Q A 2
+R
+O 0
+O 1
+
+
+DFFRHQX8
+3 0 1
+D RN CK
+
+Q A 2
+R
+O 0
+O 1
+
+
+DFFRX1
+3 0 2
+D RN CK
+
+Q A 2
+R
+O 0
+O 1
+
+QN C 1
+R
+C 3
+
+
+DFFRX2
+3 0 2
+D RN CK
+
+Q A 2
+R
+O 0
+O 1
+
+QN C 1
+R
+C 3
+
+
+DFFRX4
+3 0 2
+D RN CK
+
+Q A 2
+R
+O 0
+O 1
+
+QN C 1
+R
+C 3
+
+
+DFFRXL
+3 0 2
+D RN CK
+
+Q A 2
+R
+O 0
+O 1
+
+QN C 1
+R
+C 3
+
+
+DFFSHQX1
+2 0 1
+SN D
+
+Q O 2
+R
+C 0
+O 1
+
+
+DFFSHQX2
+2 0 1
+SN D
+
+Q O 2
+R
+C 0
+O 1
+
+
+DFFSHQX4
+2 0 1
+SN D
+
+Q O 2
+R
+C 0
+O 1
+
+
+DFFSHQX8
+2 0 1
+SN D
+
+Q O 2
+R
+C 0
+O 1
+
+
+DFFSRHQX1
+3 1 1 
+D SN RN
+
+A 3
+G
+O 0
+O 1
+O 2
+
+Q O 2
+R
+O 3
+C 1
+
+
+DFFSRHQX2
+3 1 1 
+D SN RN
+
+A 3
+G
+O 0
+O 1
+O 2
+
+Q O 2
+R
+O 3
+C 1
+
+
+DFFSRHQX4
+3 1 1 
+D SN RN
+
+A 3
+G
+O 0
+O 1
+O 2
+
+Q O 2
+R
+O 3
+C 1
+
+
+DFFSRHQX8
+3 1 1 
+D SN RN
+
+A 3
+G
+O 0
+O 1
+O 2
+
+Q O 2
+R
+O 3
+C 1
+
+
+DFFSRX1
+4 1 2
+D SN RN CK
+
+A 3
+G
+O 0
+O 1
+O 2
+
+Q O 2
+R
+C 1
+O 4
+
+QN C 1
+R
+C 5
+
+
+DFFSRX2
+4 1 2
+D SN RN CK
+
+A 3
+G
+O 0
+O 1
+O 2
+
+Q O 2
+R
+C 1
+O 4
+
+QN C 1
+R
+C 5
+
+
+DFFSRX4
+4 1 2
+D SN RN CK
+
+A 3
+G
+O 0
+O 1
+O 2
+
+Q O 2
+R
+C 1
+O 4
+
+QN C 1
+R
+C 5
+
+
+DFFSRXL
+4 1 2
+D SN RN CK
+
+A 3
+G
+O 0
+O 1
+O 2
+
+Q O 2
+R
+C 1
+O 4
+
+QN C 1
+R
+C 5
+
+
+DFFSX1
+3 0 2
+D SN CK
+
+Q O 2
+R
+O 0
+C 1
+
+QN C 1
+R
+C 3
+
+
+DFFSX2
+3 0 2
+D SN CK
+
+Q O 2
+R
+O 0
+C 1
+
+QN C 1
+R
+C 3
+
+
+DFFSX4
+3 0 2
+D SN CK
+
+Q O 2
+R
+O 0
+C 1
+
+QN C 1
+R
+C 3
+
+
+DFFSXL
+3 0 2
+D SN CK
+
+Q O 2
+R
+O 0
+C 1
+
+QN C 1
+R
+C 3
+
+
+DFFTRX1
+3 0 2
+D RN CK
+
+Q A 2
+R
+O 0
+O 1
+
+QN C 1
+R
+C 3
+
+
+DFFTRX2
+3 0 2
+D RN CK
+
+Q A 2
+R
+O 0
+O 1
+
+QN C 1
+R
+C 3
+
+
+
+DFFTRX4
+3 0 2
+D RN CK
+
+Q A 2
+R
+O 0
+O 1
+
+QN C 1
+R
+C 3
+
+
+
+DFFTRXL
+3 0 2
+D RN CK
+
+Q A 2
+R
+O 0
+O 1
+
+QN C 1
+R
+C 3
+
+
+
+DFFX1
+2 0 2
+D CK
+
+Q N 1
+R
+O 0
+
+QN C 1
+R
+C 2
+
+
+DFFX2
+2 0 2
+D CK
+
+Q N 1
+R
+O 0
+
+QN C 1
+R
+C 2
+
+
+DFFX4
+2 0 2
+D CK
+
+Q N 1
+R
+O 0
+
+QN C 1
+R
+C 2
+
+
+DFFXL
+2 0 2
+D CK
+
+Q N 1
+R
+O 0
+
+QN C 1
+R
+C 2
+
+
+DLY1X1
+1 0 1
+A
+
+Y N 1
+G
+O 0
+
+
+DLY1X4
+1 0 1
+A
+
+Y N 1
+G
+O 0
+
+
+DLY2X1
+1 0 1
+A
+
+Y N 1
+G
+O 0
+
+
+DLY2X4
+1 0 1
+A
+
+Y N 1
+G
+O 0
+
+
+DLY3X1
+1 0 1
+A
+
+Y N 1
+G
+O 0
+
+
+DLY3X4
+1 0 1
+A
+
+Y N 1
+G
+O 0
+
+
+DLY4X1
+1 0 1
+A
+
+Y N 1
+G
+O 0
+
+
+DLY4X4
+1 0 1
+A
+
+Y N 1
+G
+O 0
+
+
+EDFFHQX1
+2 2 1
+D E
+
+A 2
+G
+O 0
+O 1
+
+A 2
+G
+O 4
+C 1
+
+Q O 2
+R
+O 2
+O 3
+
+
+EDFFHQX2
+2 2 1
+D E
+
+A 2
+G
+O 0
+O 1
+
+A 2
+G
+O 4
+C 1
+
+Q O 2
+R
+O 2
+O 3
+
+
+EDFFHQX4
+2 2 1
+D E
+
+A 2
+G
+O 0
+O 1
+
+A 2
+G
+O 4
+C 1
+
+Q O 2
+R
+O 2
+O 3
+
+
+EDFFHQX8
+2 2 1
+D E
+
+A 2
+G
+O 0
+O 1
+
+A 2
+G
+O 4
+C 1
+
+Q O 2
+R
+O 2
+O 3
+
+
+EDFFTRX1
+4 2 2
+D E RN CK
+
+A 3
+G
+O 0
+O 1
+O 2
+
+A 3
+G
+O 6
+C 1
+O 2
+
+Q O 2
+R
+O 4
+O 5
+
+QN C 1
+R
+C 6
+
+
+EDFFTRX2
+4 2 2
+D E RN CK
+
+A 3
+G
+O 0
+O 1
+O 2
+
+A 3
+G
+O 6
+C 1
+O 2
+
+Q O 2
+R
+O 4
+O 5
+
+QN C 1
+R
+C 6
+
+
+EDFFTRX4
+4 2 2
+D E RN CK
+
+A 3
+G
+O 0
+O 1
+O 2
+
+A 3
+G
+O 6
+C 1
+O 2
+
+Q O 2
+R
+O 4
+O 5
+
+QN C 1
+R
+C 6
+
+
+EDFFTRXL
+3 2 2
+D E RN
+
+A 3
+G
+O 0
+O 1
+O 2
+
+A 3
+G
+O 5
+C 1
+O 2
+
+Q O 2
+R
+O 3
+O 4
+
+QN C 1
+R
+C 5
+
+
+EDFFX1
+3 2 2
+D E CK
+
+A 2
+G
+O 0
+O 1
+
+A 2
+G
+C 1
+O 5
+
+Q O 2
+R
+O 3
+O 4
+
+QN C 1
+R
+C 5
+
+
+EDFFX2
+3 2 2
+D E CK
+
+A 2
+G
+O 0
+O 1
+
+A 2
+G
+C 1
+O 5
+
+Q O 2
+R
+O 3
+O 4
+
+QN C 1
+R
+C 5
+
+
+EDFFX4
+3 2 2
+D E CK
+
+A 2
+G
+O 0
+O 1
+
+A 2
+G
+C 1
+O 5
+
+Q O 2
+R
+O 3
+O 4
+
+QN C 1
+R
+C 5
+
+
+EDFFXL
+3 2 2
+D E CK
+
+A 2
+G
+O 0
+O 1
+
+A 2
+G
+C 1
+O 5
+
+Q O 2
+R
+O 3
+O 4
+
+QN C 1
+R
+C 5
+
+
+HOLDX1
+1 0 0
+Y
+
+
+INVX1
+1 0 1
+A
+
+Y N 1
+G
+C 0
+
+
+INVX2
+1 0 1
+A
+
+Y N 1
+G
+C 0
+
+
+INVX3
+1 0 1
+A
+
+Y N 1
+G
+C 0
+
+
+INVX4
+1 0 1
+A
+
+Y N 1
+G
+C 0
+
+
+INVX6
+1 0 1
+A
+
+Y N 1
+G
+C 0
+
+
+INVX8
+1 0 1
+A
+
+Y N 1
+G
+C 0
+
+
+INVX12
+1 0 1
+A
+
+Y N 1
+G
+C 0
+
+
+INVX16
+1 0 1
+A
+
+Y N 1
+G
+C 0
+
+
+INVX20
+1 0 1
+A
+
+Y N 1
+G
+C 0
+
+
+INVXL
+1 0 1
+A
+
+Y N 1
+G
+C 0
+
+
+MDFFHQX1
+4 2 1
+D0 D1 S0 CK
+
+A 2
+G
+O 2
+O 1
+
+A 2
+G
+C 2
+O 0
+
+Q O 2
+R
+O 4
+O 5
+
+
+MDFFHQX2
+4 2 1
+D0 D1 S0 CK
+
+A 2
+G
+O 2
+O 1
+
+A 2
+G
+C 2
+O 0
+
+Q O 2
+R
+O 4
+O 5
+
+
+MDFFHQX4
+4 2 1
+D0 D1 S0 CK
+
+A 2
+G
+O 2
+O 1
+
+A 2
+G
+C 2
+O 0
+
+Q O 2
+R
+O 4
+O 5
+
+
+MDFFHQX8
+4 2 1
+D0 D1 S0 CK
+
+A 2
+G
+O 2
+O 1
+
+A 2
+G
+C 2
+O 0
+
+Q O 2
+R
+O 4
+O 5
+
+
+MX2X1
+3 2 1
+A B S0
+
+A 2
+G
+O 1
+O 2
+
+A 2
+G
+O 0
+C 2
+
+Y O 2
+G
+O 3
+O 4
+
+
+MX2X2
+3 2 1
+A B S0
+
+A 2
+G
+O 1
+O 2
+
+A 2
+G
+O 0
+C 2
+
+Y O 2
+G
+O 3
+O 4
+
+
+MX2X4
+3 2 1
+A B S0
+
+A 2
+G
+O 1
+O 2
+
+A 2
+G
+O 0
+C 2
+
+Y O 2
+G
+O 3
+O 4
+
+
+MX2X6
+3 2 1
+A B S0
+
+A 2
+G
+O 1
+O 2
+
+A 2
+G
+O 0
+C 2
+
+Y O 2
+G
+O 3
+O 4
+
+
+MX2X8
+3 2 1
+A B S0
+
+A 2
+G
+O 1
+O 2
+
+A 2
+G
+O 0
+C 2
+
+Y O 2
+G
+O 3
+O 4
+
+
+MX2XL
+3 2 1
+A B S0
+
+A 2
+G
+O 1
+O 2
+
+A 2
+G
+O 0
+C 2
+
+Y O 2
+G
+O 3
+O 4
+
+
+MX3X1
+5 3 1
+A B C S0 S1
+
+A 2
+G
+O 2
+O 4
+
+A 3
+G
+O 1
+O 3
+C 4
+
+A 3
+G
+O 0
+C 3
+C 4
+
+Y O 3
+G
+O 5
+O 6
+O 7
+
+
+MX3X2
+5 3 1
+A B C S0 S1
+
+A 2
+G
+O 2
+O 4
+
+A 3
+G
+O 1
+O 3
+C 4
+
+A 3
+G
+O 0
+C 3
+C 4
+
+Y O 3
+G
+O 5
+O 6
+O 7
+
+
+MX3X4
+5 3 1
+A B C S0 S1
+
+A 2
+G
+O 2
+O 4
+
+A 3
+G
+O 1
+O 3
+C 4
+
+A 3
+G
+O 0
+C 3
+C 4
+
+Y O 3
+G
+O 5
+O 6
+O 7
+
+
+MX3XL
+5 3 1
+A B C S0 S1
+
+A 2
+G
+O 2
+O 4
+
+A 3
+G
+O 1
+O 3
+C 4
+
+A 3
+G
+O 0
+C 3
+C 4
+
+Y O 3
+G
+O 5
+O 6
+O 7
+
+
+MX4X1
+6 4 1
+A B C D S0 S1
+
+A 3
+G
+O 3 
+O 4
+O 5
+
+A 3
+G
+O 2
+C 4
+O 5
+
+A 3
+G
+O 1
+O 4
+C 5
+
+A 3
+G
+O 0
+C 4
+C 5
+
+Y O 4
+G
+O 6
+O 7
+O 8
+O 9
+
+
+MX4X2
+6 4 1
+A B C D S0 S1
+
+A 3
+G
+O 3 
+O 4
+O 5
+
+A 3
+G
+O 2
+C 4
+O 5
+
+A 3
+G
+O 1
+O 4
+C 5
+
+A 3
+G
+O 0
+C 4
+C 5
+
+Y O 4
+G
+O 6
+O 7
+O 8
+O 9
+
+
+MX4X4
+6 4 1
+A B C D S0 S1
+
+A 3
+G
+O 3 
+O 4
+O 5
+
+A 3
+G
+O 2
+C 4
+O 5
+
+A 3
+G
+O 1
+O 4
+C 5
+
+A 3
+G
+O 0
+C 4
+C 5
+
+Y O 4
+G
+O 6
+O 7
+O 8
+O 9
+
+
+MX4XL
+6 4 1
+A B C D S0 S1
+
+A 3
+G
+O 3 
+O 4
+O 5
+
+A 3
+G
+O 2
+C 4
+O 5
+
+A 3
+G
+O 1
+O 4
+C 5
+
+A 3
+G
+O 0
+C 4
+C 5
+
+Y O 4
+G
+O 6
+O 7
+O 8
+O 9
+
+
+MXI2X1
+3 2 1
+A B S0
+
+A 2
+G
+O 0
+C 2
+
+A 2
+G
+O 1
+O 2
+
+Y A 2
+G
+C 3
+C 4
+
+
+MXI2X2
+3 2 1
+A B S0
+
+A 2
+G
+O 0
+C 2
+
+A 2
+G
+O 1
+O 2
+
+Y A 2
+G
+C 3
+C 4
+
+
+MXI2X4
+3 2 1
+A B S0
+
+A 2
+G
+O 0
+C 2
+
+A 2
+G
+O 1
+O 2
+
+Y A 2
+G
+C 3
+C 4
+
+
+MXI2X6
+3 2 1
+A B S0
+
+A 2
+G
+O 0
+C 2
+
+A 2
+G
+O 1
+O 2
+
+Y A 2
+G
+C 3
+C 4
+
+
+MXI2X8
+3 2 1
+A B S0
+
+A 2
+G
+O 0
+C 2
+
+A 2
+G
+O 1
+O 2
+
+Y A 2
+G
+C 3
+C 4
+
+
+MXI2XL
+3 2 1
+A B S0
+
+A 2
+G
+O 0
+C 2
+
+A 2
+G
+O 1
+O 2
+
+Y A 2
+G
+C 3
+C 4
+
+
+MXI3X1
+5 3 1
+A B C S0 S1
+
+A 2
+G
+O 2
+O 4
+
+A 3
+G
+O 1
+O 3
+C 4
+
+A 3
+G
+O 0
+C 3
+C 4
+
+Y A 3
+G
+C 5
+C 6
+C 7
+
+
+MXI3X2
+5 3 1
+A B C S0 S1
+
+A 2
+G
+O 2
+O 4
+
+A 3
+G
+O 1
+O 3
+C 4
+
+A 3
+G
+O 0
+C 3
+C 4
+
+Y A 3
+G
+C 5
+C 6
+C 7
+
+
+MXI3X4
+5 3 1
+A B C S0 S1
+
+A 2
+G
+O 2
+O 4
+
+A 3
+G
+O 1
+O 3
+C 4
+
+A 3
+G
+O 0
+C 3
+C 4
+
+Y A 3
+G
+C 5
+C 6
+C 7
+
+
+MXI3XL
+5 3 1
+A B C S0 S1
+
+A 2
+G
+O 2
+O 4
+
+A 3
+G
+O 1
+O 3
+C 4
+
+A 3
+G
+O 0
+C 3
+C 4
+
+Y A 3
+G
+C 5
+C 6
+C 7
+
+
+MXI4X1
+6 4 1
+A B C D S0 S1
+
+A 3
+G
+O 3 
+O 4
+O 5
+
+A 3
+G
+O 2
+C 4
+O 5
+
+A 3
+G
+O 1
+O 4
+C 5
+
+A 3
+G
+O 0
+C 4
+C 5
+
+Y A 4
+G
+C 6
+C 7
+C 8
+C 9
+
+
+MXI4X2
+
+6 4 1
+A B C D S0 S1
+
+A 3
+G
+O 3 
+O 4
+O 5
+
+A 3
+G
+O 2
+C 4
+O 5
+
+A 3
+G
+O 1
+O 4
+C 5
+
+A 3
+G
+O 0
+C 4
+C 5
+
+Y A 4
+G
+C 6
+C 7
+C 8
+C 9
+
+
+MXI4X4
+6 4 1
+A B C D S0 S1
+
+A 3
+G
+O 3 
+O 4
+O 5
+
+A 3
+G
+O 2
+C 4
+O 5
+
+A 3
+G
+O 1
+O 4
+C 5
+
+A 3
+G
+O 0
+C 4
+C 5
+
+Y A 4
+G
+C 6
+C 7
+C 8
+C 9
+
+
+MXI4XL
+6 4 1
+A B C D S0 S1
+
+A 3
+G
+O 3 
+O 4
+O 5
+
+A 3
+G
+O 2
+C 4
+O 5
+
+A 3
+G
+O 1
+O 4
+C 5
+
+A 3
+G
+O 0
+C 4
+C 5
+
+Y A 4
+G
+C 6
+C 7
+C 8
+C 9
+
+
+NAND2BX1
+2 0 1
+AN B
+
+Y O 2
+G
+O 0
+C 1
+
+
+NAND2BX2
+2 0 1
+AN B
+
+Y O 2
+G
+O 0
+C 1
+
+
+NAND2BX4
+2 0 1
+AN B
+
+Y O 2
+G
+O 0
+C 1
+
+
+NAND2BXL
+2 0 1
+AN B
+
+Y O 2
+G
+O 0
+C 1
+
+
+NAND2X1
+2 0 1
+A B
+
+Y O 2
+G
+C 0
+C 1
+
+
+NAND2X2
+2 0 1
+A B
+
+Y O 2
+G
+C 0
+C 1
+
+
+NAND2X4
+2 0 1
+A B
+
+Y O 2
+G
+C 0
+C 1
+
+
+NAND2X6
+2 0 1
+A B
+
+Y O 2
+G
+C 0
+C 1
+
+
+NAND2X8
+2 0 1
+A B
+
+Y O 2
+G
+C 0
+C 1
+
+
+NAND2XL
+2 0 1
+A B
+
+Y O 2
+G
+C 0
+C 1
+
+
+NAND3BX1
+3 0 1
+AN B C
+
+Y O 3
+G
+O 0
+C 1
+C 2
+
+
+NAND3BX2
+3 0 1
+AN B C
+
+Y O 3
+G
+O 0
+C 1
+C 2
+
+
+NAND3BX4
+3 0 1
+AN B C
+
+Y O 3
+G
+O 0
+C 1
+C 2
+
+
+NAND3BXL
+3 0 1
+AN B C
+
+Y O 3
+G
+O 0
+C 1
+C 2
+
+
+NAND3X1
+3 0 1
+A B C
+
+Y O 3
+G
+C 0
+C 1
+C 2
+
+
+NAND3X2
+3 0 1
+A B C
+
+Y O 3
+G
+C 0
+C 1
+C 2
+
+
+NAND3X4
+3 0 1
+A B C
+
+Y O 3
+G
+C 0
+C 1
+C 2
+
+
+NAND3X6
+3 0 1
+A B C
+
+Y O 3
+G
+C 0
+C 1
+C 2
+
+
+NAND3X8
+3 0 1
+A B C
+
+Y O 3
+G
+C 0
+C 1
+C 2
+
+
+NAND3XL
+3 0 1
+A B C
+
+Y O 3
+G
+C 0
+C 1
+C 2
+
+
+NAND4BBX1
+4 0 1
+AN BN C D
+
+Y O 4
+G
+O 0
+O 1
+C 2
+C 3
+
+
+NAND4BBX2
+4 0 1
+AN BN C D
+
+Y O 4
+G
+O 0
+O 1
+C 2
+C 3
+
+
+NAND4BBX4
+4 0 1
+AN BN C D
+
+Y O 4
+G
+O 0
+O 1
+C 2
+C 3
+
+
+NAND4BBXL
+4 0 1
+AN BN C D
+
+Y O 4
+G
+O 0
+O 1
+C 2
+C 3
+
+
+NAND4BX1
+4 0 1
+AN B C D
+
+Y O 4
+G
+O 0
+C 1
+C 2
+C 3
+
+
+NAND4BX2
+4 0 1
+AN B C D
+
+Y O 4
+G
+O 0
+C 1
+C 2
+C 3
+
+
+NAND4BX4
+4 0 1
+AN B C D
+
+Y O 4
+G
+O 0
+C 1
+C 2
+C 3
+
+
+NAND4BXL
+4 0 1
+AN B C D
+
+Y O 4
+G
+O 0
+C 1
+C 2
+C 3
+
+
+NAND4X1
+4 0 1
+A B C D
+
+Y O 4
+G
+C 0
+C 1
+C 2
+C 3
+
+
+NAND4X2
+4 0 1
+A B C D
+
+Y O 4
+G
+C 0
+C 1
+C 2
+C 3
+
+
+NAND4X4
+4 0 1
+A B C D
+
+Y O 4
+G
+C 0
+C 1
+C 2
+C 3
+
+
+NAND4X6
+4 0 1
+A B C D
+
+Y O 4
+G
+C 0
+C 1
+C 2
+C 3
+
+NAND4X8
+4 0 1
+A B C D
+
+Y O 4
+G
+C 0
+C 1
+C 2
+C 3
+
+
+NAND4XL
+4 0 1
+A B C D
+
+Y O 4
+G
+C 0
+C 1
+C 2
+C 3
+
+
+NOR2BX1
+2 0 1
+AN B
+
+Y A 2
+G
+O 0
+C 1
+
+
+NOR2BX2
+2 0 1
+AN B
+
+Y A 2
+G
+O 0
+C 1
+
+
+NOR2BX4
+2 0 1
+AN B
+
+Y A 2
+G
+O 0
+C 1
+
+
+NOR2BXL
+2 0 1
+AN B
+
+Y A 2
+G
+O 0
+C 1
+
+
+NOR2X1
+2 0 1
+A B
+
+Y A 2
+G
+C 0
+C 1
+
+
+NOR2X2
+2 0 1
+A B
+
+Y A 2
+G
+C 0
+C 1
+
+
+NOR2X4
+2 0 1
+A B
+
+Y A 2
+G
+C 0
+C 1
+
+
+NOR2X6
+2 0 1
+A B
+
+Y A 2
+G
+C 0
+C 1
+
+
+NOR2X8
+2 0 1
+A B
+
+Y A 2
+G
+C 0
+C 1
+
+
+NOR2XL
+2 0 1
+A B
+
+Y A 2
+G
+C 0
+C 1
+
+
+NOR3BX1
+3 0 1
+AN B C
+
+Y A 3
+G
+O 0
+C 1
+C 2
+
+
+NOR3BX2
+3 0 1
+AN B C
+
+Y A 3
+G
+O 0
+C 1
+C 2
+
+
+NOR3BX4
+3 0 1
+AN B C
+
+Y A 3
+G
+O 0
+C 1
+C 2
+
+
+NOR3BXL
+3 0 1
+AN B C
+
+Y A 3
+G
+O 0
+C 1
+C 2
+
+
+NOR3X1
+3 0 1
+A B C
+
+Y A 3
+G
+C 0
+C 1
+C 2
+
+
+NOR3X2
+3 0 1
+A B C
+
+Y A 3
+G
+C 0
+C 1
+C 2
+
+
+NOR3X4
+3 0 1
+A B C
+
+Y A 3
+G
+C 0
+C 1
+C 2
+
+
+NOR3X6
+3 0 1
+A B C
+
+Y A 3
+G
+C 0
+C 1
+C 2
+
+
+NOR3X8
+3 0 1
+A B C
+
+Y A 3
+G
+C 0
+C 1
+C 2
+
+
+NOR3XL
+3 0 1
+A B C
+
+Y A 3
+G
+C 0
+C 1
+C 2
+
+
+NOR4BBX1
+4 0 1
+AN BN C D
+
+Y A 4
+G
+O 0
+O 1
+C 2
+C 3
+
+
+NOR4BBX2
+4 0 1
+AN BN C D
+
+Y A 4
+G
+O 0
+O 1
+C 2
+C 3
+
+
+NOR4BBX4
+4 0 1
+AN BN C D
+
+Y A 4
+G
+O 0
+O 1
+C 2
+C 3
+
+
+NOR4BBXL
+4 0 1
+AN BN C D
+
+Y A 4
+G
+O 0
+O 1
+C 2
+C 3
+
+
+NOR4BX1
+4 0 1
+AN B C D
+
+Y A 4
+G
+O 0
+C 1
+C 2
+C 3
+
+
+NOR4BX2
+4 0 1
+AN B C D
+
+Y A 4
+G
+O 0
+C 1
+C 2
+C 3
+
+
+NOR4BX4
+4 0 1
+AN B C D
+
+Y A 4
+G
+O 0
+C 1
+C 2
+C 3
+
+
+NOR4BXL
+4 0 1
+AN B C D
+
+Y A 4
+G
+O 0
+C 1
+C 2
+C 3
+
+
+NOR4X1
+4 0 1
+A B C D
+
+Y A 4
+G
+C 0
+C 1
+C 2
+C 3
+
+
+NOR4X2
+4 0 1
+A B C D
+
+Y A 4
+G
+C 0
+C 1
+C 2
+C 3
+
+
+NOR4X4
+4 0 1
+A B C D
+
+Y A 4
+G
+C 0
+C 1
+C 2
+C 3
+
+
+NOR4X6
+4 0 1
+A B C D
+
+Y A 4
+G
+C 0
+C 1
+C 2
+C 3
+
+
+NOR4X8
+4 0 1
+A B C D
+
+Y A 4
+G
+C 0
+C 1
+C 2
+C 3
+
+
+NOR4XL
+4 0 1
+A B C D
+
+Y A 4
+G
+C 0
+C 1
+C 2
+C 3
+
+
+OA21X1
+3 1 1
+A0 A1 B0
+
+O 2
+G
+O 0
+O 1
+
+Y A 2
+G
+O 2
+O 3
+
+
+OA21X2
+3 1 1
+A0 A1 B0
+
+O 2
+G
+O 0
+O 1
+
+Y A 2
+G
+O 2
+O 3
+
+
+OA21X4
+3 1 1
+A0 A1 B0
+
+O 2
+G
+O 0
+O 1
+
+Y A 2
+G
+O 2
+O 3
+
+
+OA21XL
+3 1 1
+A0 A1 B0
+
+O 2
+G
+O 0
+O 1
+
+Y A 2
+G
+O 2
+O 3
+
+
+OA22X1
+4 2 1
+A0 A1 B0 B1
+
+O 2
+G
+O 0
+O 1
+
+O 2
+G
+O 2
+O 3
+
+Y A 2
+G
+O 4
+O 5
+
+
+OA22X2
+4 2 1
+A0 A1 B0 B1
+
+O 2
+G
+O 0
+O 1
+
+O 2
+G
+O 2
+O 3
+
+Y A 2
+G
+O 4
+O 5
+
+
+OA22X4
+4 2 1
+A0 A1 B0 B1
+
+O 2
+G
+O 0
+O 1
+
+O 2
+G
+O 2
+O 3
+
+Y A 2
+G
+O 4
+O 5
+
+
+OA22XL
+4 2 1
+A0 A1 B0 B1
+
+O 2
+G
+O 0
+O 1
+
+O 2
+G
+O 2
+O 3
+
+Y A 2
+G
+O 4
+O 5
+
+
+OAI211X1
+4 1 1
+A0 A1 B0 C0
+
+O 2
+G
+O 0
+O 1
+
+Y O 3
+G
+C 2
+C 3
+C 4
+
+
+OAI211X2
+4 1 1
+A0 A1 B0 C0
+
+O 2
+G
+O 0
+O 1
+
+Y O 3
+G
+C 2
+C 3
+C 4
+
+
+OAI211X4
+4 1 1
+A0 A1 B0 C0
+
+O 2
+G
+O 0
+O 1
+
+Y O 3
+G
+C 2
+C 3
+C 4
+
+
+OAI211XL
+4 1 1
+A0 A1 B0 C0
+
+O 2
+G
+O 0
+O 1
+
+Y O 3
+G
+C 2
+C 3
+C 4
+
+
+OAI21X1
+3 1 1
+A0 A1 B0
+
+O 2
+G
+O 0
+O 1
+
+Y O 2
+G
+C 2
+C 3
+
+
+OAI21X2
+3 1 1
+A0 A1 B0
+
+O 2
+G
+O 0
+O 1
+
+Y O 2
+G
+C 2
+C 3
+
+
+OAI21X4
+3 1 1
+A0 A1 B0
+
+O 2
+G
+O 0
+O 1
+
+Y O 2
+G
+C 2
+C 3
+
+
+OAI21XL
+3 1 1
+A0 A1 B0
+
+O 2
+G
+O 0
+O 1
+
+Y O 2
+G
+C 2
+C 3
+
+
+OAI221X1
+5 2 1
+A0 A1 B0 B1 C0
+
+O 2
+G
+O 0
+O 1
+
+O 2
+G
+O 2
+O 3
+
+Y O 3
+G
+C 4
+C 5
+C 6
+
+
+OAI221X2
+5 2 1
+A0 A1 B0 B1 C0
+
+O 2
+G
+O 0
+O 1
+
+O 2
+G
+O 2
+O 3
+
+Y O 3
+G
+C 4
+C 5
+C 6
+
+
+OAI221X4
+5 2 1
+A0 A1 B0 B1 C0
+
+O 2
+G
+O 0
+O 1
+
+O 2
+G
+O 2
+O 3
+
+Y O 3
+G
+C 4
+C 5
+C 6
+
+
+OAI221XL
+5 2 1
+A0 A1 B0 B1 C0
+
+O 2
+G
+O 0
+O 1
+
+O 2
+G
+O 2
+O 3
+
+Y O 3
+G
+C 4
+C 5
+C 6
+
+
+OAI222X1
+6 3 1
+A0 A1 B0 B1 C0 C1
+
+O 2
+G
+O 0
+O 1
+
+O 2
+G
+O 2
+O 3
+
+O 2
+G
+O 4
+O 5
+
+Y O 3
+G
+C 6
+C 7
+C 8
+
+
+OAI222X2
+6 3 1
+A0 A1 B0 B1 C0 C1
+
+O 2
+G
+O 0
+O 1
+
+O 2
+G
+O 2
+O 3
+
+O 2
+G
+O 4
+O 5
+
+Y O 3
+G
+C 6
+C 7
+C 8
+
+
+OAI222X4
+6 3 1
+A0 A1 B0 B1 C0 C1
+
+O 2
+G
+O 0
+O 1
+
+O 2
+G
+O 2
+O 3
+
+O 2
+G
+O 4
+O 5
+
+Y O 3
+G
+C 6
+C 7
+C 8
+
+
+OAI222XL
+6 3 1
+A0 A1 B0 B1 C0 C1
+
+O 2
+G
+O 0
+O 1
+
+O 2
+G
+O 2
+O 3
+
+O 2
+G
+O 4
+O 5
+
+Y O 3
+G
+C 6
+C 7
+C 8
+
+
+OAI22X1
+4 2 1
+A0 A1 B0 B1
+
+O 2
+G
+O 0
+O 1
+
+O 2
+G
+O 2
+O 3
+
+Y O 2
+G
+C 4
+C 5
+
+
+OAI22X2
+4 2 1
+A0 A1 B0 B1
+
+O 2
+G
+O 0
+O 1
+
+O 2
+G
+O 2
+O 3
+
+Y O 2
+G
+C 4
+C 5
+
+
+OAI22X4
+4 2 1
+A0 A1 B0 B1
+
+O 2
+G
+O 0
+O 1
+
+O 2
+G
+O 2
+O 3
+
+Y O 2
+G
+C 4
+C 5
+
+
+OAI22XL
+4 2 1
+A0 A1 B0 B1
+
+O 2
+G
+O 0
+O 1
+
+O 2
+G
+O 2
+O 3
+
+Y O 2
+G
+C 4
+C 5
+
+
+OAI2BB1X1
+3 1 1
+A0N A1N B0
+
+O 2
+G
+C 0
+C 1
+
+Y O 2
+G
+C 2
+C 3
+
+
+OAI2BB1X2
+3 1 1
+A0N A1N B0
+
+O 2
+G
+C 0
+C 1
+
+Y O 2
+G
+C 2
+C 3
+
+
+OAI2BB1X4
+3 1 1
+A0N A1N B0
+
+O 2
+G
+C 0
+C 1
+
+Y O 2
+G
+C 2
+C 3
+
+
+OAI2BB1XL
+3 1 1
+A0N A1N B0
+
+O 2
+G
+C 0
+C 1
+
+Y O 2
+G
+C 2
+C 3
+
+
+OAI2BB2X1
+4 2 1
+A0N A1N B0 B1
+
+O 2
+G
+C 0
+C 1
+
+O 2
+G
+O 2
+O 3
+
+Y O 2
+G
+C 4
+C 5
+
+
+OAI2BB2X2
+4 2 1
+A0N A1N B0 B1
+
+O 2
+G
+C 0
+C 1
+
+O 2
+G
+O 2
+O 3
+
+Y O 2
+G
+C 4
+C 5
+
+
+OAI2BB2X4
+4 2 1
+A0N A1N B0 B1
+
+O 2
+G
+C 0
+C 1
+
+O 2
+G
+O 2
+O 3
+
+Y O 2
+G
+C 4
+C 5
+
+
+OAI2BB2XL
+4 2 1
+A0N A1N B0 B1
+
+O 2
+G
+C 0
+C 1
+
+O 2
+G
+O 2
+O 3
+
+Y O 2
+G
+C 4
+C 5
+
+
+OAI31X1
+4 1 1
+A0 A1 A2 B0
+
+O 3
+G
+O 0
+O 1
+O 2
+
+Y O 2
+G
+C 3
+C 4
+
+
+OAI31X2
+4 1 1
+A0 A1 A2 B0
+
+O 3
+G
+O 0
+O 1
+O 2
+
+Y O 2
+G
+C 3
+C 4
+
+
+OAI31X4
+4 1 1
+A0 A1 A2 B0
+
+O 3
+G
+O 0
+O 1
+O 2
+
+Y O 2
+G
+C 3
+C 4
+
+
+OAI31XL
+4 1 1
+A0 A1 A2 B0
+
+O 3
+G
+O 0
+O 1
+O 2
+
+Y O 2
+G
+C 3
+C 4
+
+
+OAI32X1
+5 2 1
+A0 A1 A2 B0 B1
+
+O 3
+G
+O 0
+O 1
+O 2
+
+O 2
+G
+O 3
+O 4
+
+Y O 2
+G
+C 5
+C 6
+
+
+OAI32X2
+5 2 1
+A0 A1 A2 B0 B1
+
+O 3
+G
+O 0
+O 1
+O 2
+
+O 2
+G
+O 3
+O 4
+
+Y O 2
+G
+C 5
+C 6
+
+
+OAI32X4
+5 2 1
+A0 A1 A2 B0 B1
+
+O 3
+G
+O 0
+O 1
+O 2
+
+O 2
+G
+O 3
+O 4
+
+Y O 2
+G
+C 5
+C 6
+
+
+OAI32XL
+5 2 1
+A0 A1 A2 B0 B1
+
+O 3
+G
+O 0
+O 1
+O 2
+
+O 2
+G
+O 3
+O 4
+
+Y O 2
+G
+C 5
+C 6
+
+
+OAI33X1
+6 2 1
+A0 A1 A2 B0 B1 B2
+
+O 3
+G
+O 0
+O 1
+O 2
+
+O 3
+G
+O 3
+O 4
+O 5
+
+Y O 2
+G
+C 6
+C 7
+
+
+OAI33X2
+6 2 1
+A0 A1 A2 B0 B1 B2
+
+O 3
+G
+O 0
+O 1
+O 2
+
+O 3
+G
+O 3
+O 4
+O 5
+
+Y O 2
+G
+C 6
+C 7
+
+
+OAI33X4
+6 2 1
+A0 A1 A2 B0 B1 B2
+
+O 3
+G
+O 0
+O 1
+O 2
+
+O 3
+G
+O 3
+O 4
+O 5
+
+Y O 2
+G
+C 6
+C 7
+
+
+OAI33XL
+6 2 1
+A0 A1 A2 B0 B1 B2
+
+O 3
+G
+O 0
+O 1
+O 2
+
+O 3
+G
+O 3
+O 4
+O 5
+
+Y O 2
+G
+C 6
+C 7
+
+
+OR2X1
+2 0 1
+A B
+
+Y O 2
+G
+O 0
+O 1
+
+
+OR2X2
+2 0 1
+A B
+
+Y O 2
+G
+O 0
+O 1
+
+
+OR2X4
+2 0 1
+A B
+
+Y O 2
+G
+O 0
+O 1
+
+
+OR2X6
+2 0 1
+A B
+
+Y O 2
+G
+O 0
+O 1
+
+
+OR2X8
+2 0 1
+A B
+
+Y O 2
+G
+O 0
+O 1
+
+
+OR2XL
+2 0 1
+A B
+
+Y O 2
+G
+O 0
+O 1
+
+
+OR3X1
+3 0 1
+A B C
+
+Y O 3
+G
+O 0
+O 1
+O 2
+
+
+OR3X2
+3 0 1
+A B C
+
+Y O 3
+G
+O 0
+O 1
+O 2
+
+
+OR3X4
+3 0 1
+A B C
+
+Y O 3
+G
+O 0
+O 1
+O 2
+
+
+OR3X6
+3 0 1
+A B C
+
+Y O 3
+G
+O 0
+O 1
+O 2
+
+
+OR3X8
+3 0 1
+A B C
+
+Y O 3
+G
+O 0
+O 1
+O 2
+
+
+OR3XL
+3 0 1
+A B C
+
+Y O 3
+G
+O 0
+O 1
+O 2
+
+
+OR4X1
+4 0 1
+A B C D
+
+Y O 4
+G
+O 0
+O 1
+O 2
+O 3
+
+
+OR4X2
+4 0 1
+A B C D
+
+Y O 4
+G
+O 0
+O 1
+O 2
+O 3
+
+
+OR4X4
+4 0 1
+A B C D
+
+Y O 4
+G
+O 0
+O 1
+O 2
+O 3
+
+
+OR4X6
+4 0 1
+A B C D
+
+Y O 4
+G
+O 0
+O 1
+O 2
+O 3
+
+
+OR4X8
+4 0 1
+A B C D
+
+Y O 4
+G
+O 0
+O 1
+O 2
+O 3
+
+
+OR4XL
+4 0 1
+A B C D
+
+Y O 4
+G
+O 0
+O 1
+O 2
+O 3
+
+
+RFRDX1
+1 0 1
+RB
+
+BRB N 1
+G
+C 0
+
+
+RFRDX2
+1 0 1
+RB
+
+BRB N 1
+G
+C 0
+
+
+RFRDX4
+1 0 1
+RB
+
+BRB N 1
+G
+C 0
+
+
+SDFFHQX1
+4 2 1
+SI SE D CLK
+
+A 2
+G
+O 0
+O 1
+
+A 2
+G
+C 1
+O 2
+
+Q O 2
+R
+O 4
+O 5
+
+
+SDFFHQX2
+4 2 1
+SI SE D CLK
+
+A 2
+G
+O 0
+O 1
+
+A 2
+G
+C 1
+O 2
+
+Q O 2
+R
+O 4
+O 5
+
+
+SDFFHQX4
+4 2 1
+SI SE D CLK
+
+A 2
+G
+O 0
+O 1
+
+A 2
+G
+C 1
+O 2
+
+Q O 2
+R
+O 4
+O 5
+
+
+SDFFHQX8
+4 2 1
+SI SE D CLK
+
+A 2
+G
+O 0
+O 1
+
+A 2
+G
+C 1
+O 2
+
+Q O 2
+R
+O 4
+O 5
+
+
+SDFFQX1
+4 2 1
+SI SE D CLK
+
+A 2
+G
+O 0
+O 1
+
+A 2
+G
+C 1
+O 2
+
+Q O 2
+R
+O 4
+O 5
+
+
+SDFFQX2
+4 2 1
+SI SE D CLK
+
+A 2
+G
+O 0
+O 1
+
+A 2
+G
+C 1
+O 2
+
+Q O 2
+R
+O 4
+O 5
+
+
+SDFFQX4
+4 2 1
+SI SE D CLK
+
+A 2
+G
+O 0
+O 1
+
+A 2
+G
+C 1
+O 2
+
+Q O 2
+R
+O 4
+O 5
+
+
+SDFFQXL
+4 2 1
+SI SE D CLK
+
+A 2
+G
+O 0
+O 1
+
+A 2
+G
+C 1
+O 2
+
+Q O 2
+R
+O 4
+O 5
+
+
+SDFFRHQX1
+5 2 1
+SI SE D CLK RN
+
+A 3
+G
+O 0
+O 1
+O 4
+
+A 3
+G
+C 1
+O 2
+O 4
+
+Q O 2
+R
+O 5
+O 6
+
+
+SDFFRHQX2
+5 2 1
+SI SE D CLK RN
+
+A 3
+G
+O 0
+O 1
+O 4
+
+A 3
+G
+C 1
+O 2
+O 4
+
+Q O 2
+R
+O 5
+O 6
+
+
+SDFFRHQX4
+5 2 1
+SI SE D CLK RN
+
+A 3
+G
+O 0
+O 1
+O 4
+
+A 3
+G
+C 1
+O 2
+O 4
+
+Q O 2
+R
+O 5
+O 6
+
+
+SDFFRHQX8
+5 2 1
+SI SE D CLK RN
+
+A 3
+G
+O 0
+O 1
+O 4
+
+A 3
+G
+C 1
+O 2
+O 4
+
+Q O 2
+R
+O 5
+O 6
+
+
+SDFFRX1
+5 2 2
+SI SE D CLK RN
+
+A 3
+G
+O 0
+O 1
+O 4
+
+A 3
+G
+C 1
+O 2
+O 4
+
+Q O 2
+R
+O 5
+O 6
+
+QN C 1
+R
+C 7
+
+
+SDFFRX2
+5 2 2
+SI SE D CLK RN
+
+A 3
+G
+O 0
+O 1
+O 4
+
+A 3
+G
+C 1
+O 2
+O 4
+
+Q O 2
+R
+O 5
+O 6
+
+QN C 1
+R
+C 7
+
+
+SDFFRX4
+5 2 2
+SI SE D CLK RN
+
+A 3
+G
+O 0
+O 1
+O 4
+
+A 3
+G
+C 1
+O 2
+O 4
+
+Q O 2
+R
+O 5
+O 6
+
+QN C 1
+R
+C 7
+
+
+SDFFRXL
+5 2 2
+SI SE D CLK RN
+
+A 3
+G
+O 0
+O 1
+O 4
+
+A 3
+G
+C 1
+O 2
+O 4
+
+Q O 2
+R
+O 5
+O 6
+
+QN C 1
+R
+C 7
+
+
+SDFFSHQX1
+5 2 1
+SI SE D CK SN
+
+A 3
+G
+O 0
+O 1
+O 4
+
+A 3
+G
+C 1
+O 2
+O 4
+
+Q O 3
+R
+C 4
+O 5
+O 6
+
+
+SDFFSHQX2
+5 2 1
+SI SE D CK SN
+
+A 3
+G
+O 0
+O 1
+O 4
+
+A 3
+G
+C 1
+O 2
+O 4
+
+Q O 3
+R
+C 4
+O 5
+O 6
+
+
+SDFFSHQX4
+5 2 1
+SI SE D CK SN
+
+A 3
+G
+O 0
+O 1
+O 4
+
+A 3
+G
+C 1
+O 2
+O 4
+
+Q O 3
+R
+C 4
+O 5
+O 6
+
+
+SDFFSHQX8
+5 2 1
+SI SE D CK SN
+
+A 3
+G
+O 0
+O 1
+O 4
+
+A 3
+G
+C 1
+O 2
+O 4
+
+Q O 3
+R
+C 4
+O 5
+O 6
+
+
+SDFFSRHQX1
+6 2 1
+SI SE D CK SN RN
+
+A 4
+G
+O 0
+O 1
+O 4
+O 5
+
+A 4
+G
+C 1
+O 2
+O 4
+O 5
+
+Q O 3
+R
+C 4
+O 6
+O 7
+
+
+SDFFSRHQX2
+6 2 1
+SI SE D CK SN RN
+
+A 4
+G
+O 0
+O 1
+O 4
+O 5
+
+A 4
+G
+C 1
+O 2
+O 4
+O 5
+
+Q O 3
+R
+C 4
+O 6
+O 7
+
+
+SDFFSRHQX4
+6 2 1
+SI SE D CK SN RN
+
+A 4
+G
+O 0
+O 1
+O 4
+O 5
+
+A 4
+G
+C 1
+O 2
+O 4
+O 5
+
+Q O 3
+R
+C 4
+O 6
+O 7
+
+
+SDFFSRHQX8
+6 2 1
+SI SE D CK SN RN
+
+A 4
+G
+O 0
+O 1
+O 4
+O 5
+
+A 4
+G
+C 1
+O 2
+O 4
+O 5
+
+Q O 3
+R
+C 4
+O 6
+O 7
+
+
+SDFFSRX1
+6 2 2
+SI SE D CK SN RN
+
+A 4
+G
+O 0
+O 1
+O 4
+O 5
+
+A 4
+G
+C 1
+O 2
+O 4
+O 5
+
+Q O 3
+R
+C 4
+O 6
+O 7
+
+QN C 1
+R
+C 8
+
+
+SDFFSRX2
+6 2 2
+SI SE D CK SN RN
+
+A 4
+G
+O 0
+O 1
+O 4
+O 5
+
+A 4
+G
+C 1
+O 2
+O 4
+O 5
+
+Q O 3
+R
+C 4
+O 6
+O 7
+
+QN C 1
+R
+C 8
+
+
+SDFFSRX4
+6 2 2
+SI SE D CK SN RN
+
+A 4
+G
+O 0
+O 1
+O 4
+O 5
+
+A 4
+G
+C 1
+O 2
+O 4
+O 5
+
+Q O 3
+R
+C 4
+O 6
+O 7
+
+QN C 1
+R
+C 8
+
+
+SDFFSRXL
+6 2 2
+SI SE D CK SN RN
+
+A 4
+G
+O 0
+O 1
+O 4
+O 5
+
+A 4
+G
+C 1
+O 2
+O 4
+O 5
+
+Q O 3
+R
+C 4
+O 6
+O 7
+
+QN C 1
+R
+C 8
+
+
+SDFFSX1
+5 2 2
+SI SE D CK SN
+
+A 3
+G
+O 0
+O 1
+O 4
+
+A 3
+G
+C 1
+O 2
+O 4
+
+Q O 3
+R
+C 4
+O 5
+O 6
+
+QN C 1
+R
+C 7
+
+
+SDFFSX2
+5 2 2
+SI SE D CK SN
+
+A 3
+G
+O 0
+O 1
+O 4
+
+A 3
+G
+C 1
+O 2
+O 4
+
+Q O 3
+R
+C 4
+O 5
+O 6
+
+QN C 1
+R
+C 7
+
+
+SDFFSX4
+5 2 2
+SI SE D CK SN
+
+A 3
+G
+O 0
+O 1
+O 4
+
+A 3
+G
+C 1
+O 2
+O 4
+
+Q O 3
+R
+C 4
+O 5
+O 6
+
+QN C 1
+R
+C 7
+
+
+SDFFSXL
+5 2 2
+SI SE D CK SN
+
+A 3
+G
+O 0
+O 1
+O 4
+
+A 3
+G
+C 1
+O 2
+O 4
+
+Q O 3
+R
+C 4
+O 5
+O 6
+
+QN C 1
+R
+C 7
+
+
+SDFFTRX1
+5 2 2
+SI SE D CK RN
+
+A 2
+G
+O 0
+O 1
+
+A 3
+G
+C 1
+O 2
+O 4
+
+Q O 2
+R
+O 5
+O 6
+
+QN C 1
+R
+C 7
+
+
+SDFFTRX2
+5 2 2
+SI SE D CK RN
+
+A 2
+G
+O 0
+O 1
+
+A 3
+G
+C 1
+O 2
+O 4
+
+Q O 2
+R
+O 5
+O 6
+
+QN C 1
+R
+C 7
+
+
+SDFFTRX4
+5 2 2
+SI SE D CK RN
+
+A 2
+G
+O 0
+O 1
+
+A 3
+G
+C 1
+O 2
+O 4
+
+Q O 2
+R
+O 5
+O 6
+
+QN C 1
+R
+C 7
+
+
+SDFFTRXL
+5 2 2
+SI SE D CK RN
+
+A 2
+G
+O 0
+O 1
+
+A 3
+G
+C 1
+O 2
+O 4
+
+Q O 2
+R
+O 5
+O 6
+
+QN C 1
+R
+C 7
+
+
+SDFFX1
+4 2 2
+SI SE D CK
+
+A 2
+G
+O 0
+O 1
+
+A 2
+G
+C 1
+O 2
+
+Q O 2
+R
+O 4
+O 5
+
+QN C 1
+R
+C 6
+
+
+SDFFX2
+4 2 2
+SI SE D CK
+
+A 2
+G
+O 0
+O 1
+
+A 2
+G
+C 1
+O 2
+
+Q O 2
+R
+O 4
+O 5
+
+QN C 1
+R
+C 6
+
+
+SDFFX4
+4 2 2
+SI SE D CK
+
+A 2
+G
+O 0
+O 1
+
+A 2
+G
+C 1
+O 2
+
+Q O 2
+R
+O 4
+O 5
+
+QN C 1
+R
+C 6
+
+
+SDFFXL
+4 2 2
+SI SE D CK
+
+A 2
+G
+O 0
+O 1
+
+A 2
+G
+C 1
+O 2
+
+Q O 2
+R
+O 4
+O 5
+
+QN C 1
+R
+C 6
+
+
+SEDFFHQX1
+5 3 1
+SI SE D CK E
+
+A 2
+G
+O 0
+O 1
+
+A 3
+G
+C 1
+O 2
+O 4
+
+A 3
+G
+C 1
+O 8
+C 4
+
+Q O 3
+R
+O 5
+O 6
+O 7
+
+
+SEDFFHQX2
+5 3 1
+SI SE D CK E
+
+A 2
+G
+O 0
+O 1
+
+A 3
+G
+C 1
+O 2
+O 4
+
+A 3
+G
+C 1
+O 8
+C 4
+
+Q O 3
+R
+O 5
+O 6
+O 7
+
+
+SEDFFHQX4
+5 3 1
+SI SE D CK E
+
+A 2
+G
+O 0
+O 1
+
+A 3
+G
+C 1
+O 2
+O 4
+
+A 3
+G
+C 1
+O 8
+C 4
+
+Q O 3
+R
+O 5
+O 6
+O 7
+
+
+SEDFFHQX8
+5 3 1
+SI SE D CK E
+
+A 2
+G
+O 0
+O 1
+
+A 3
+G
+C 1
+O 2
+O 4
+
+A 3
+G
+C 1
+O 8
+C 4
+
+Q O 3
+R
+O 5
+O 6
+O 7
+
+
+SEDFFTRX1
+6 3 1
+SI SE D CK E RN
+
+A 2
+G
+O 0
+O 1
+
+A 4
+G
+C 1
+O 2
+O 4
+O 5
+
+A 4
+G
+C 1
+C 4
+O 5
+O 9
+
+Q O 3
+R
+O 6
+O 7
+O 8
+
+
+SEDFFTRX2
+6 3 1
+SI SE D CK E RN
+
+A 2
+G
+O 0
+O 1
+
+A 4
+G
+C 1
+O 2
+O 4
+O 5
+
+A 4
+G
+C 1
+C 4
+O 5
+O 9
+
+Q O 3
+R
+O 6
+O 7
+O 8
+
+
+SEDFFTRX4
+6 3 1
+SI SE D CK E RN
+
+A 2
+G
+O 0
+O 1
+
+A 4
+G
+C 1
+O 2
+O 4
+O 5
+
+A 4
+G
+C 1
+C 4
+O 5
+O 9
+
+Q O 3
+R
+O 6
+O 7
+O 8
+
+
+SEDFFTRXL
+6 3 1
+SI SE D CK E RN
+
+A 2
+G
+O 0
+O 1
+
+A 4
+G
+C 1
+O 2
+O 4
+O 5
+
+A 4
+G
+C 1
+C 4
+O 5
+O 9
+
+Q O 3
+R
+O 6
+O 7
+O 8
+
+
+SEDFFX1
+5 3 2
+SI SE D CK E
+
+A 2
+G
+O 0
+O 1
+
+A 3
+G
+C 1
+O 2
+O 4
+
+A 3
+G
+C 1
+C 4
+O 8
+
+Q O 3
+R
+O 5
+O 6
+O 7
+
+QN C 1
+R
+C 8
+
+
+SEDFFX2
+5 3 2
+SI SE D CK E
+
+A 2
+G
+O 0
+O 1
+
+A 3
+G
+C 1
+O 2
+O 4
+
+A 3
+G
+C 1
+C 4
+O 8
+
+Q O 3
+R
+O 5
+O 6
+O 7
+
+QN C 1
+R
+C 8
+
+
+SEDFFX4
+5 3 2
+SI SE D CK E
+
+A 2
+G
+O 0
+O 1
+
+A 3
+G
+C 1
+O 2
+O 4
+
+A 3
+G
+C 1
+C 4
+O 8
+
+Q O 3
+R
+O 5
+O 6
+O 7
+
+QN C 1
+R
+C 8
+
+
+SEDFFXL
+5 3 2
+SI SE D CK E
+
+A 2
+G
+O 0
+O 1
+
+A 3
+G
+C 1
+O 2
+O 4
+
+A 3
+G
+C 1
+C 4
+O 8
+
+Q O 3
+R
+O 5
+O 6
+O 7
+
+QN C 1
+R
+C 8
+
+
+SMDFFHQX1
+6 3 1
+SI SE D0 D1 S0 CK
+
+A 2
+G
+O 0
+O 1
+
+A 3
+G
+C 1
+O 3
+O 4
+
+A 3
+G
+C 1
+O 2
+C 4
+
+Q O 3
+R
+O 6
+O 7
+O 8
+
+
+SMDFFHQX2
+6 3 1
+SI SE D0 D1 S0 CK
+
+A 2
+G
+O 0
+O 1
+
+A 3
+G
+C 1
+O 3
+O 4
+
+A 3
+G
+C 1
+O 2
+C 4
+
+Q O 3
+R
+O 6
+O 7
+O 8
+
+
+SMDFFHQX4
+6 3 1
+SI SE D0 D1 S0 CK
+
+A 2
+G
+O 0
+O 1
+
+A 3
+G
+C 1
+O 3
+O 4
+
+A 3
+G
+C 1
+O 2
+C 4
+
+Q O 3
+R
+O 6
+O 7
+O 8
+
+
+SMDFFHQX8
+6 3 1
+SI SE D0 D1 S0 CK
+
+A 2
+G
+O 0
+O 1
+
+A 3
+G
+C 1
+O 3
+O 4
+
+A 3
+G
+C 1
+O 2
+C 4
+
+Q O 3
+R
+O 6
+O 7
+O 8
+
+
+TBUFX1
+2 0 1
+A OE
+
+Y N 1
+G
+O 0
+
+
+TBUFX2
+2 0 1
+A OE
+
+Y N 1
+G
+O 0
+
+
+TBUFX3
+2 0 1
+A OE
+
+Y N 1
+G
+O 0
+
+
+TBUFX4
+2 0 1
+A OE
+
+Y N 1
+G
+O 0
+
+
+TBUFX6
+2 0 1
+A OE
+
+Y N 1
+G
+O 0
+
+
+TBUFX8
+2 0 1
+A OE
+
+Y N 1
+G
+O 0
+
+
+TBUFX12
+2 0 1
+A OE
+
+Y N 1
+G
+O 0
+
+
+TBUFX16
+2 0 1
+A OE
+
+Y N 1
+G
+O 0
+
+
+TBUFX20
+2 0 1
+A OE
+
+Y N 1
+G
+O 0
+
+
+TBUFXL
+2 0 1
+A OE
+
+Y N 1
+G
+O 0
+
+
+TLATNSRX1
+4 2 2
+D GN SN RN
+
+A 4
+G
+O 0
+O 1
+O 2
+O 3
+
+A 4
+G
+O 6
+C 1
+O 2
+O 3
+
+Q O 3
+R
+C 2
+O 4
+O 5
+
+QN C 1
+R
+C 6
+
+
+TLATNSRX2
+4 2 2
+D GN SN RN
+
+A 4
+G
+O 0
+O 1
+O 2
+O 3
+
+A 4
+G
+O 6
+C 1
+O 2
+O 3
+
+Q O 3
+R
+C 2
+O 4
+O 5
+
+QN C 1
+R
+C 6
+
+
+TLATNSRX4
+4 2 2
+D GN SN RN
+
+A 4
+G
+O 0
+O 1
+O 2
+O 3
+
+A 4
+G
+O 6
+C 1
+O 2
+O 3
+
+Q O 3
+R
+C 2
+O 4
+O 5
+
+QN C 1
+R
+C 6
+
+
+TLATNSRXL
+4 2 2
+D GN SN RN
+
+A 4
+G
+O 0
+C 1
+O 2
+O 3
+
+A 4
+G
+O 6
+O 1
+O 2
+O 3
+
+Q O 3
+R
+C 2
+O 4
+O 5
+
+QN C 1
+R
+C 6
+
+
+TLATX1
+2 2 2
+D G
+
+A 2
+G
+O 0
+O 1
+
+A 2
+G
+C 1
+O 4
+
+Q O 2
+R
+O 2
+O 3
+
+QN C 1
+R
+C 4
+
+
+TLATX2
+2 2 2
+D G
+
+A 2
+G
+O 0
+O 1
+
+A 2
+G
+C 1
+O 4
+
+Q O 2
+R
+O 2
+O 3
+
+QN C 1
+R
+C 4
+
+
+TLATX4
+2 2 2
+D G
+
+A 2
+G
+O 0
+O 1
+
+A 2
+G
+C 1
+O 4
+
+Q O 2
+R
+O 2
+O 3
+
+QN C 1
+R
+C 4
+
+
+TLATXL
+2 2 2
+D G
+
+A 2
+G
+O 0
+O 1
+
+A 2
+G
+C 1
+O 4
+
+Q O 2
+R
+O 2
+O 3
+
+QN C 1
+R
+C 4
+
+
+XNOR2X1
+2 0 1
+A B
+   Y X 2
+   G
+   C 0
+   O 1
+
+XNOR2X2
+2 0 1
+A B
+   Y X 2
+   G
+   C 0
+   O 1
+
+XNOR2X4
+2 0 1
+A B
+   Y X 2
+   G
+   C 0
+   O 1
+
+XNOR2XL
+2 0 1
+A B
+   Y X 2
+   G
+   C 0
+   O 1
+
+XNOR3X1
+3 0 1
+A B C
+   Y X 3
+   G
+   C 0
+   O 1
+   O 2
+
+XNOR3X2
+3 0 1
+A B C
+   Y X 3
+   G
+   C 0
+   O 1
+   O 2
+
+XNOR3X4
+3 0 1
+A B C
+   Y X 3
+   G
+   C 0
+   O 1
+   O 2
+
+XNOR3XL
+3 0 1
+A B C
+   Y X 3
+   G
+   C 0
+   O 1
+   O 2
+
+
+XOR2X1
+2 0 1
+A B
+   Y X 2
+   G
+   O 0
+   O 1
+
+XOR2X2
+2 0 1
+A B
+   Y X 2
+   G
+   O 0
+   O 1
+
+XOR2X4
+2 0 1
+A B
+   Y X 2
+   G
+   O 0
+   O 1
+
+XOR2XL
+2 0 1
+A B
+   Y X 2
+   G
+   O 0
+   O 1
+
+XOR3X1
+3 0 1
+A B C
+   Y X 3
+   G
+   O 0
+   O 1
+   O 2
+
+
+XOR3X2
+3 0 1
+A B C
+   Y X 3
+   G
+   O 0
+   O 1
+   O 2
+
+XOR3X4
+3 0 1
+A B C
+   Y X 3
+   G
+   O 0
+   O 1
+   O 2
+
+XOR3XL
+3 0 1
+A B C
+   Y X 3
+   G
+   O 0
+   O 1
+   O 2
+
